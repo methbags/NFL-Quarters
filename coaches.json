@@ -1,0 +1,258 @@
+{
+    "ARI": {
+        "2021": { "headCoach": "Kliff Kingsbury", "oc": "Kliff Kingsbury (play-caller)", "dc": "Vance Joseph" },
+        "2022": { "headCoach": "Kliff Kingsbury", "oc": "Kliff Kingsbury (play-caller)", "dc": "Vance Joseph" },
+        "2023": { "headCoach": "Jonathan Gannon", "oc": "Drew Petzing", "dc": "Nick Rallis" },
+        "2024": { "headCoach": "Jonathan Gannon", "oc": "Drew Petzing", "dc": "Nick Rallis" },
+        "2025": { "headCoach": "Jonathan Gannon", "oc": "Drew Petzing", "dc": "Nick Rallis" },
+        "2026": { "headCoach": "Mike LaFleur", "oc": "Nathaniel Hackett", "dc": "Nick Rallis" }
+    },
+    "ATL": {
+        "2021": { "headCoach": "Arthur Smith", "oc": "Dave Ragone", "dc": "Dean Pees" },
+        "2022": { "headCoach": "Arthur Smith", "oc": "Dave Ragone", "dc": "Dean Pees" },
+        "2023": { "headCoach": "Arthur Smith", "oc": "Dave Ragone", "dc": "Ryan Nielsen" },
+        "2024": { "headCoach": "Raheem Morris", "oc": "Zac Robinson", "dc": "Jimmy Lake" },
+        "2025": { "headCoach": "Raheem Morris", "oc": "Zac Robinson", "dc": "Jeff Ulbrich" },
+        "2026": { "headCoach": "Kevin Stefanski", "oc": "Tommy Rees", "dc": "Jeff Ulbrich" }
+    },
+    "BAL": {
+        "2021": { "headCoach": "John Harbaugh", "oc": "Greg Roman", "dc": "Don \"Wink\" Martindale" },
+        "2022": { "headCoach": "John Harbaugh", "oc": "Greg Roman", "dc": "Mike Macdonald" },
+        "2023": { "headCoach": "John Harbaugh", "oc": "Todd Monken", "dc": "Mike Macdonald" },
+        "2024": { "headCoach": "John Harbaugh", "oc": "Todd Monken", "dc": "Zach Orr" },
+        "2025": { "headCoach": "John Harbaugh", "oc": "Todd Monken", "dc": "Zach Orr" },
+        "2026": { "headCoach": "Jesse Minter", "oc": "Declan Doyle", "dc": "Anthony Weaver" }
+    },
+    "BUF": {
+        "2021": { "headCoach": "Sean McDermott", "oc": "Brian Daboll", "dc": "Leslie Frazier" },
+        "2022": { "headCoach": "Sean McDermott", "oc": "Ken Dorsey", "dc": "Leslie Frazier" },
+        "2023": { "headCoach": "Sean McDermott", "oc": "Ken Dorsey \u2192 Joe Brady", "dc": "Leslie Frazier" },
+        "2024": { "headCoach": "Sean McDermott", "oc": "Joe Brady", "dc": "Bobby Babich" },
+        "2025": { "headCoach": "Sean McDermott", "oc": "Joe Brady", "dc": "Bobby Babich" },
+        "2026": { "headCoach": "Joe Brady", "oc": "Pete Carmichael Jr.", "dc": "Jim Leonhard" }
+    },
+    "CAR": {
+        "2021": { "headCoach": "Matt Rhule", "oc": "Joe Brady", "dc": "Phil Snow" },
+        "2022": { "headCoach": "Matt Rhule \u2192 Steve Wilks (interim)", "oc": "Ben McAdoo", "dc": "Al Holcomb / Phil Snow" },
+        "2023": { "headCoach": "Frank Reich \u2192 Chris Tabor (interim)", "oc": "Thomas Brown", "dc": "Ejiro Evero" },
+        "2024": { "headCoach": "Dave Canales", "oc": "Brad Idzik", "dc": "Ejiro Evero" },
+        "2025": { "headCoach": "Dave Canales", "oc": "Brad Idzik", "dc": "Ejiro Evero" },
+        "2026": { "headCoach": "Dave Canales", "oc": "Brad Idzik", "dc": "Ejiro Evero" }
+    },
+    "CHI": {
+        "2021": { "headCoach": "Matt Nagy", "oc": "Bill Lazor", "dc": "Sean Desai" },
+        "2022": { "headCoach": "Matt Eberflus", "oc": "Luke Getsy", "dc": "Alan Williams" },
+        "2023": { "headCoach": "Matt Eberflus", "oc": "Luke Getsy", "dc": "Alan Williams" },
+        "2024": { "headCoach": "Matt Eberflus \u2192 Thomas Brown (interim)", "oc": "Shane Waldron", "dc": "Eric Washington" },
+        "2025": { "headCoach": "Ben Johnson", "oc": "Declan Doyle", "dc": "Dennis Allen" },
+        "2026": { "headCoach": "Ben Johnson", "oc": "Press Taylor", "dc": "Dennis Allen" }
+    },
+    "CIN": {
+        "2021": { "headCoach": "Zac Taylor", "oc": "Brian Callahan", "dc": "Lou Anarumo" },
+        "2022": { "headCoach": "Zac Taylor", "oc": "Brian Callahan", "dc": "Lou Anarumo" },
+        "2023": { "headCoach": "Zac Taylor", "oc": "Brian Callahan", "dc": "Lou Anarumo" },
+        "2024": { "headCoach": "Zac Taylor", "oc": "Dan Pitcher", "dc": "Lou Anarumo" },
+        "2025": { "headCoach": "Zac Taylor", "oc": "Dan Pitcher", "dc": "Al Golden" },
+        "2026": { "headCoach": "Zac Taylor", "oc": "Dan Pitcher", "dc": "Al Golden" }
+    },
+    "CLE": {
+        "2021": { "headCoach": "Kevin Stefanski", "oc": "Alex Van Pelt", "dc": "Joe Woods" },
+        "2022": { "headCoach": "Kevin Stefanski", "oc": "Alex Van Pelt", "dc": "Joe Woods" },
+        "2023": { "headCoach": "Kevin Stefanski", "oc": "Alex Van Pelt", "dc": "Jim Schwartz" },
+        "2024": { "headCoach": "Kevin Stefanski", "oc": "Ken Dorsey", "dc": "Jim Schwartz" },
+        "2025": { "headCoach": "Kevin Stefanski", "oc": "Tommy Rees", "dc": "Jim Schwartz" },
+        "2026": { "headCoach": "Todd Monken", "oc": "Travis Switzer", "dc": "Mike Rutenberg" }
+    },
+    "DAL": {
+        "2021": { "headCoach": "Mike McCarthy", "oc": "Kellen Moore", "dc": "Dan Quinn" },
+        "2022": { "headCoach": "Mike McCarthy", "oc": "Kellen Moore", "dc": "Dan Quinn" },
+        "2023": { "headCoach": "Mike McCarthy", "oc": "Brian Schottenheimer", "dc": "Dan Quinn" },
+        "2024": { "headCoach": "Mike McCarthy", "oc": "Brian Schottenheimer", "dc": "Mike Zimmer" },
+        "2025": { "headCoach": "Brian Schottenheimer", "oc": "Klayton Adams", "dc": "Matt Eberflus" },
+        "2026": { "headCoach": "Brian Schottenheimer", "oc": "Klayton Adams", "dc": "Christian Parker" }
+    },
+    "DEN": {
+        "2021": { "headCoach": "Vic Fangio", "oc": "Pat Shurmur", "dc": "Ed Donatell" },
+        "2022": { "headCoach": "Nathaniel Hackett", "oc": "Justin Outten", "dc": "Ejiro Evero" },
+        "2023": { "headCoach": "Sean Payton", "oc": "Joe Lombardi", "dc": "Vance Joseph" },
+        "2024": { "headCoach": "Sean Payton", "oc": "Joe Lombardi", "dc": "Vance Joseph" },
+        "2025": { "headCoach": "Sean Payton", "oc": "Joe Lombardi", "dc": "Vance Joseph" },
+        "2026": { "headCoach": "Sean Payton", "oc": "Davis Webb", "dc": "Vance Joseph" }
+    },
+    "DET": {
+        "2021": { "headCoach": "Dan Campbell", "oc": "Anthony Lynn", "dc": "Aaron Glenn" },
+        "2022": { "headCoach": "Dan Campbell", "oc": "Ben Johnson", "dc": "Aaron Glenn" },
+        "2023": { "headCoach": "Dan Campbell", "oc": "Ben Johnson", "dc": "Aaron Glenn" },
+        "2024": { "headCoach": "Dan Campbell", "oc": "Ben Johnson", "dc": "Aaron Glenn" },
+        "2025": { "headCoach": "Dan Campbell", "oc": "John Morton", "dc": "Kelvin Sheppard" },
+        "2026": { "headCoach": "Dan Campbell", "oc": "Drew Petzing", "dc": "Kelvin Sheppard" }
+    },
+    "GB": {
+        "2021": { "headCoach": "Matt LaFleur", "oc": "Nathaniel Hackett", "dc": "Joe Barry" },
+        "2022": { "headCoach": "Matt LaFleur", "oc": "Adam Stenavich", "dc": "Joe Barry" },
+        "2023": { "headCoach": "Matt LaFleur", "oc": "Adam Stenavich", "dc": "Joe Barry" },
+        "2024": { "headCoach": "Matt LaFleur", "oc": "Adam Stenavich", "dc": "Jeff Hafley" },
+        "2025": { "headCoach": "Matt LaFleur", "oc": "Adam Stenavich", "dc": "Jeff Hafley" },
+        "2026": { "headCoach": "Matt LaFleur", "oc": "Adam Stenavich", "dc": "Jonathan Gannon" }
+    },
+    "HOU": {
+        "2021": { "headCoach": "David Culley", "oc": "Tim Kelly", "dc": "Lovie Smith" },
+        "2022": { "headCoach": "Lovie Smith", "oc": "Pep Hamilton", "dc": "Lovie Smith (self)" },
+        "2023": { "headCoach": "DeMeco Ryans", "oc": "Bobby Slowik", "dc": "Matt Burke" },
+        "2024": { "headCoach": "DeMeco Ryans", "oc": "Bobby Slowik", "dc": "Matt Burke" },
+        "2025": { "headCoach": "DeMeco Ryans", "oc": "Bobby Slowik", "dc": "Matt Burke" },
+        "2026": { "headCoach": "DeMeco Ryans", "oc": "Nick Caley", "dc": "Matt Burke" }
+    },
+    "IND": {
+        "2021": { "headCoach": "Frank Reich", "oc": "Marcus Brady", "dc": "Matt Eberflus" },
+        "2022": { "headCoach": "Frank Reich \u2192 Jeff Saturday (interim)", "oc": "Marcus Brady", "dc": "Gus Bradley" },
+        "2023": { "headCoach": "Shane Steichen", "oc": "Jim Bob Cooter", "dc": "Gus Bradley" },
+        "2024": { "headCoach": "Shane Steichen", "oc": "Jim Bob Cooter", "dc": "Gus Bradley" },
+        "2025": { "headCoach": "Shane Steichen", "oc": "Jim Bob Cooter", "dc": "Lou Anarumo" },
+        "2026": { "headCoach": "Shane Steichen", "oc": "Jim Bob Cooter", "dc": "Lou Anarumo" }
+    },
+    "JAX": {
+        "2021": { "headCoach": "Urban Meyer \u2192 Darrell Bevell (interim)", "oc": "Darrell Bevell", "dc": "Joe Cullen" },
+        "2022": { "headCoach": "Doug Pederson", "oc": "Press Taylor", "dc": "Mike Caldwell" },
+        "2023": { "headCoach": "Doug Pederson", "oc": "Press Taylor", "dc": "Mike Caldwell" },
+        "2024": { "headCoach": "Doug Pederson", "oc": "Press Taylor", "dc": "Ryan Nielsen" },
+        "2025": { "headCoach": "Liam Coen", "oc": "Grant Udinski", "dc": "Anthony Campanile" },
+        "2026": { "headCoach": "Liam Coen", "oc": "Grant Udinski", "dc": "Anthony Campanile" }
+    },
+    "KC": {
+        "2021": { "headCoach": "Andy Reid", "oc": "Eric Bieniemy", "dc": "Steve Spagnuolo" },
+        "2022": { "headCoach": "Andy Reid", "oc": "Eric Bieniemy", "dc": "Steve Spagnuolo" },
+        "2023": { "headCoach": "Andy Reid", "oc": "Matt Nagy", "dc": "Steve Spagnuolo" },
+        "2024": { "headCoach": "Andy Reid", "oc": "Matt Nagy", "dc": "Steve Spagnuolo" },
+        "2025": { "headCoach": "Andy Reid", "oc": "Matt Nagy", "dc": "Steve Spagnuolo" },
+        "2026": { "headCoach": "Andy Reid", "oc": "Eric Bieniemy", "dc": "Steve Spagnuolo" }
+    },
+    "LV": {
+        "2021": { "headCoach": "Jon Gruden \u2192 Rich Bisaccia (interim)", "oc": "Greg Olson", "dc": "Gus Bradley" },
+        "2022": { "headCoach": "Josh McDaniels", "oc": "Mick Lombardi", "dc": "Patrick Graham" },
+        "2023": { "headCoach": "Josh McDaniels \u2192 Antonio Pierce (interim)", "oc": "Bo Hardegree / Mick Lombardi", "dc": "Patrick Graham" },
+        "2024": { "headCoach": "Antonio Pierce", "oc": "Luke Getsy / Scott Turner", "dc": "Patrick Graham" },
+        "2025": { "headCoach": "Pete Carroll", "oc": "Chip Kelly", "dc": "Patrick Graham" },
+        "2026": { "headCoach": "Klint Kubiak", "oc": "Andrew Janocko", "dc": "Rob Leonard" }
+    },
+    "LAC": {
+        "2021": { "headCoach": "Brandon Staley", "oc": "Joe Lombardi", "dc": "Renaldo Hill" },
+        "2022": { "headCoach": "Brandon Staley", "oc": "Joe Lombardi", "dc": "Renaldo Hill" },
+        "2023": { "headCoach": "Brandon Staley \u2192 Giff Smith (interim)", "oc": "Kellen Moore", "dc": "Derrick Ansley" },
+        "2024": { "headCoach": "Jim Harbaugh", "oc": "Greg Roman", "dc": "Jesse Minter" },
+        "2025": { "headCoach": "Jim Harbaugh", "oc": "Greg Roman", "dc": "Jesse Minter" },
+        "2026": { "headCoach": "Jim Harbaugh", "oc": "Mike McDaniel", "dc": "Chris O'Leary" }
+    },
+    "LAR": {
+        "2021": { "headCoach": "Sean McVay", "oc": "Kevin O'Connell", "dc": "Raheem Morris" },
+        "2022": { "headCoach": "Sean McVay", "oc": "Liam Coen", "dc": "Raheem Morris" },
+        "2023": { "headCoach": "Sean McVay", "oc": "Mike LaFleur", "dc": "Raheem Morris" },
+        "2024": { "headCoach": "Sean McVay", "oc": "Mike LaFleur", "dc": "Chris Shula" },
+        "2025": { "headCoach": "Sean McVay", "oc": "Mike LaFleur", "dc": "Chris Shula" },
+        "2026": { "headCoach": "Sean McVay", "oc": "Nate Scheelhaase", "dc": "Chris Shula" }
+    },
+    "MIA": {
+        "2021": { "headCoach": "Brian Flores", "oc": "George Godsey / Eric Studesville", "dc": "Josh Boyer" },
+        "2022": { "headCoach": "Mike McDaniel", "oc": "Frank Smith", "dc": "Josh Boyer" },
+        "2023": { "headCoach": "Mike McDaniel", "oc": "Frank Smith", "dc": "Vic Fangio" },
+        "2024": { "headCoach": "Mike McDaniel", "oc": "Frank Smith", "dc": "Anthony Weaver" },
+        "2025": { "headCoach": "Mike McDaniel", "oc": "Frank Smith", "dc": "Anthony Weaver" },
+        "2026": { "headCoach": "Jeff Hafley", "oc": "Bobby Slowik", "dc": "Sean Duggan" }
+    },
+    "MIN": {
+        "2021": { "headCoach": "Mike Zimmer", "oc": "Klint Kubiak", "dc": "Andre Patterson / Adam Zimmer" },
+        "2022": { "headCoach": "Kevin O'Connell", "oc": "Wes Phillips", "dc": "Ed Donatell" },
+        "2023": { "headCoach": "Kevin O'Connell", "oc": "Wes Phillips", "dc": "Brian Flores" },
+        "2024": { "headCoach": "Kevin O'Connell", "oc": "Wes Phillips", "dc": "Brian Flores" },
+        "2025": { "headCoach": "Kevin O'Connell", "oc": "Wes Phillips", "dc": "Brian Flores" },
+        "2026": { "headCoach": "Kevin O'Connell", "oc": "Wes Phillips", "dc": "Brian Flores" }
+    },
+    "NE": {
+        "2021": { "headCoach": "Bill Belichick", "oc": "Josh McDaniels", "dc": "Bill Belichick (no formal DC)" },
+        "2022": { "headCoach": "Bill Belichick", "oc": "Matt Patricia / Joe Judge", "dc": "Bill Belichick (no formal DC)" },
+        "2023": { "headCoach": "Bill Belichick", "oc": "Bill O'Brien", "dc": "Bill Belichick (no formal DC)" },
+        "2024": { "headCoach": "Jerod Mayo", "oc": "Alex Van Pelt", "dc": "DeMarcus Covington" },
+        "2025": { "headCoach": "Mike Vrabel", "oc": "Josh McDaniels", "dc": "Terrell Williams" },
+        "2026": { "headCoach": "Mike Vrabel", "oc": "Josh McDaniels", "dc": "Zak Kuhr" }
+    },
+    "NO": {
+        "2021": { "headCoach": "Sean Payton", "oc": "Pete Carmichael Jr.", "dc": "Dennis Allen" },
+        "2022": { "headCoach": "Dennis Allen", "oc": "Pete Carmichael Jr.", "dc": "Ryan Nielsen / Kris Richard" },
+        "2023": { "headCoach": "Dennis Allen", "oc": "Pete Carmichael Jr.", "dc": "Joe Woods" },
+        "2024": { "headCoach": "Dennis Allen \u2192 Darren Rizzi (interim)", "oc": "Klint Kubiak", "dc": "Joe Woods" },
+        "2025": { "headCoach": "Kellen Moore", "oc": "Doug Nussmeier", "dc": "Brandon Staley" },
+        "2026": { "headCoach": "Kellen Moore", "oc": "Doug Nussmeier", "dc": "Brandon Staley" }
+    },
+    "NYG": {
+        "2021": { "headCoach": "Joe Judge", "oc": "Jason Garrett / Freddie Kitchens", "dc": "Patrick Graham" },
+        "2022": { "headCoach": "Brian Daboll", "oc": "Mike Kafka", "dc": "Don \"Wink\" Martindale" },
+        "2023": { "headCoach": "Brian Daboll", "oc": "Mike Kafka", "dc": "Don \"Wink\" Martindale" },
+        "2024": { "headCoach": "Brian Daboll", "oc": "Mike Kafka", "dc": "Shane Bowen" },
+        "2025": { "headCoach": "Brian Daboll → Mike Kafka (interim)", "oc": "Mike Kafka", "dc": "Shane Bowen" },
+        "2026": { "headCoach": "John Harbaugh", "oc": "Matt Nagy", "dc": "Dennard Wilson" }
+    },
+    "NYJ": {
+        "2021": { "headCoach": "Robert Saleh", "oc": "Mike LaFleur", "dc": "Jeff Ulbrich" },
+        "2022": { "headCoach": "Robert Saleh", "oc": "Mike LaFleur", "dc": "Jeff Ulbrich" },
+        "2023": { "headCoach": "Robert Saleh", "oc": "Nathaniel Hackett", "dc": "Jeff Ulbrich" },
+        "2024": { "headCoach": "Robert Saleh \u2192 Jeff Ulbrich (interim)", "oc": "Nathaniel Hackett", "dc": "Jeff Ulbrich" },
+        "2025": { "headCoach": "Aaron Glenn", "oc": "Tanner Engstrand", "dc": "Steve Wilks" },
+        "2026": { "headCoach": "Aaron Glenn", "oc": "Frank Reich", "dc": "Brian Duker" }
+    },
+    "PHI": {
+        "2021": { "headCoach": "Nick Sirianni", "oc": "Shane Steichen", "dc": "Jonathan Gannon" },
+        "2022": { "headCoach": "Nick Sirianni", "oc": "Shane Steichen", "dc": "Jonathan Gannon" },
+        "2023": { "headCoach": "Nick Sirianni", "oc": "Brian Johnson", "dc": "Sean Desai" },
+        "2024": { "headCoach": "Nick Sirianni", "oc": "Kellen Moore", "dc": "Vic Fangio" },
+        "2025": { "headCoach": "Nick Sirianni", "oc": "Kevin Patullo", "dc": "Vic Fangio" },
+        "2026": { "headCoach": "Nick Sirianni", "oc": "Sean Mannion", "dc": "Vic Fangio" }
+    },
+    "PIT": {
+        "2021": { "headCoach": "Mike Tomlin", "oc": "Matt Canada", "dc": "Keith Butler" },
+        "2022": { "headCoach": "Mike Tomlin", "oc": "Matt Canada", "dc": "Teryl Austin" },
+        "2023": { "headCoach": "Mike Tomlin", "oc": "Matt Canada / Eddie Faulkner", "dc": "Teryl Austin" },
+        "2024": { "headCoach": "Mike Tomlin", "oc": "Arthur Smith", "dc": "Teryl Austin" },
+        "2025": { "headCoach": "Mike Tomlin", "oc": "Arthur Smith", "dc": "Teryl Austin" },
+        "2026": { "headCoach": "Mike McCarthy", "oc": "Brian Angelichio", "dc": "Patrick Graham" }
+    },
+    "SF": {
+        "2021": { "headCoach": "Kyle Shanahan", "oc": "Kyle Shanahan (play-caller)", "dc": "DeMeco Ryans" },
+        "2022": { "headCoach": "Kyle Shanahan", "oc": "Kyle Shanahan (play-caller)", "dc": "DeMeco Ryans" },
+        "2023": { "headCoach": "Kyle Shanahan", "oc": "Kyle Shanahan (play-caller)", "dc": "Steve Wilks" },
+        "2024": { "headCoach": "Kyle Shanahan", "oc": "Kyle Shanahan (play-caller)", "dc": "Nick Sorensen" },
+        "2025": { "headCoach": "Kyle Shanahan", "oc": "Kyle Shanahan (play-caller)", "dc": "Robert Saleh" },
+        "2026": { "headCoach": "Kyle Shanahan", "oc": "Klay Kubiak", "dc": "Raheem Morris" }
+    },
+    "SEA": {
+        "2021": { "headCoach": "Pete Carroll", "oc": "Shane Waldron", "dc": "Ken Norton Jr." },
+        "2022": { "headCoach": "Pete Carroll", "oc": "Shane Waldron", "dc": "Clint Hurtt" },
+        "2023": { "headCoach": "Pete Carroll", "oc": "Shane Waldron", "dc": "Clint Hurtt" },
+        "2024": { "headCoach": "Mike Macdonald", "oc": "Ryan Grubb", "dc": "Aden Durde" },
+        "2025": { "headCoach": "Mike Macdonald", "oc": "Klint Kubiak", "dc": "Aden Durde" },
+        "2026": { "headCoach": "Mike Macdonald", "oc": "Brian Fleury", "dc": "Aden Durde" }
+    },
+    "TB": {
+        "2021": { "headCoach": "Bruce Arians", "oc": "Byron Leftwich", "dc": "Todd Bowles" },
+        "2022": { "headCoach": "Todd Bowles", "oc": "Byron Leftwich", "dc": "Larry Foote / Kacy Rodgers" },
+        "2023": { "headCoach": "Todd Bowles", "oc": "Dave Canales", "dc": "Larry Foote / Kacy Rodgers" },
+        "2024": { "headCoach": "Todd Bowles", "oc": "Liam Coen", "dc": "Larry Foote / Kacy Rodgers" },
+        "2025": { "headCoach": "Todd Bowles", "oc": "Josh Grizzard", "dc": "Kacy Rodgers" },
+        "2026": { "headCoach": "Todd Bowles", "oc": "Zac Robinson", "dc": "Todd Bowles (play-caller)" }
+    },
+    "TEN": {
+        "2021": { "headCoach": "Mike Vrabel", "oc": "Todd Downing", "dc": "Shane Bowen" },
+        "2022": { "headCoach": "Mike Vrabel", "oc": "Todd Downing", "dc": "Shane Bowen" },
+        "2023": { "headCoach": "Mike Vrabel", "oc": "Tim Kelly", "dc": "Shane Bowen" },
+        "2024": { "headCoach": "Brian Callahan", "oc": "Nick Holz", "dc": "Dennard Wilson" },
+        "2025": { "headCoach": "Brian Callahan \u2192 Mike McCoy (interim)", "oc": "Nick Holz", "dc": "Dennard Wilson" },
+        "2026": { "headCoach": "Robert Saleh", "oc": "Brian Daboll", "dc": "Gus Bradley" }
+    },
+    "WSH": {
+        "2021": { "headCoach": "Ron Rivera", "oc": "Scott Turner", "dc": "Jack Del Rio" },
+        "2022": { "headCoach": "Ron Rivera", "oc": "Scott Turner", "dc": "Jack Del Rio" },
+        "2023": { "headCoach": "Ron Rivera", "oc": "Eric Bieniemy", "dc": "Jack Del Rio" },
+        "2024": { "headCoach": "Dan Quinn", "oc": "Kliff Kingsbury", "dc": "Joe Whitt Jr." },
+        "2025": { "headCoach": "Dan Quinn", "oc": "Kliff Kingsbury", "dc": "Joe Whitt Jr." },
+        "2026": { "headCoach": "Dan Quinn", "oc": "David Blough", "dc": "Daronte Jones" }
+    }
+}

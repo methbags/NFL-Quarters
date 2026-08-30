@@ -1,0 +1,5202 @@
+[
+    {
+        "week": 1,
+        "homeTeam": "KC",
+        "awayTeam": "BAL",
+        "homeScore": [
+            7,
+            6,
+            7,
+            7
+        ],
+        "awayScore": [
+            7,
+            3,
+            0,
+            10
+        ],
+        "finalHome": 27,
+        "finalAway": 20
+    },
+    {
+        "week": 1,
+        "homeTeam": "PHI",
+        "awayTeam": "GB",
+        "homeScore": [
+            0,
+            17,
+            14,
+            3
+        ],
+        "awayScore": [
+            6,
+            13,
+            7,
+            3
+        ],
+        "finalHome": 34,
+        "finalAway": 29
+    },
+    {
+        "week": 1,
+        "homeTeam": "ATL",
+        "awayTeam": "PIT",
+        "homeScore": [
+            3,
+            7,
+            0,
+            0
+        ],
+        "awayScore": [
+            3,
+            6,
+            6,
+            3
+        ],
+        "finalHome": 10,
+        "finalAway": 18
+    },
+    {
+        "week": 1,
+        "homeTeam": "BUF",
+        "awayTeam": "ARI",
+        "homeScore": [
+            0,
+            10,
+            14,
+            10
+        ],
+        "awayScore": [
+            7,
+            10,
+            0,
+            11
+        ],
+        "finalHome": 34,
+        "finalAway": 28
+    },
+    {
+        "week": 1,
+        "homeTeam": "CHI",
+        "awayTeam": "TEN",
+        "homeScore": [
+            0,
+            3,
+            7,
+            14
+        ],
+        "awayScore": [
+            7,
+            10,
+            0,
+            0
+        ],
+        "finalHome": 24,
+        "finalAway": 17
+    },
+    {
+        "week": 1,
+        "homeTeam": "CIN",
+        "awayTeam": "NE",
+        "homeScore": [
+            0,
+            0,
+            7,
+            3
+        ],
+        "awayScore": [
+            0,
+            10,
+            3,
+            3
+        ],
+        "finalHome": 10,
+        "finalAway": 16
+    },
+    {
+        "week": 1,
+        "homeTeam": "IND",
+        "awayTeam": "HOU",
+        "homeScore": [
+            7,
+            0,
+            6,
+            14
+        ],
+        "awayScore": [
+            6,
+            6,
+            3,
+            14
+        ],
+        "finalHome": 27,
+        "finalAway": 29
+    },
+    {
+        "week": 1,
+        "homeTeam": "MIA",
+        "awayTeam": "JAX",
+        "homeScore": [
+            0,
+            7,
+            7,
+            6
+        ],
+        "awayScore": [
+            7,
+            10,
+            0,
+            0
+        ],
+        "finalHome": 20,
+        "finalAway": 17
+    },
+    {
+        "week": 1,
+        "homeTeam": "NO",
+        "awayTeam": "CAR",
+        "homeScore": [
+            17,
+            13,
+            7,
+            10
+        ],
+        "awayScore": [
+            0,
+            3,
+            7,
+            0
+        ],
+        "finalHome": 47,
+        "finalAway": 10
+    },
+    {
+        "week": 1,
+        "homeTeam": "NYG",
+        "awayTeam": "MIN",
+        "homeScore": [
+            3,
+            0,
+            3,
+            0
+        ],
+        "awayScore": [
+            7,
+            7,
+            14,
+            0
+        ],
+        "finalHome": 6,
+        "finalAway": 28
+    },
+    {
+        "week": 1,
+        "homeTeam": "LAC",
+        "awayTeam": "LV",
+        "homeScore": [
+            3,
+            3,
+            3,
+            13
+        ],
+        "awayScore": [
+            7,
+            0,
+            0,
+            3
+        ],
+        "finalHome": 22,
+        "finalAway": 10
+    },
+    {
+        "week": 1,
+        "homeTeam": "SEA",
+        "awayTeam": "DEN",
+        "homeScore": [
+            3,
+            6,
+            10,
+            7
+        ],
+        "awayScore": [
+            3,
+            10,
+            0,
+            7
+        ],
+        "finalHome": 26,
+        "finalAway": 20
+    },
+    {
+        "week": 1,
+        "homeTeam": "CLE",
+        "awayTeam": "DAL",
+        "homeScore": [
+            3,
+            0,
+            7,
+            7
+        ],
+        "awayScore": [
+            7,
+            13,
+            10,
+            3
+        ],
+        "finalHome": 17,
+        "finalAway": 33
+    },
+    {
+        "week": 1,
+        "homeTeam": "TB",
+        "awayTeam": "WSH",
+        "homeScore": [
+            6,
+            10,
+            7,
+            14
+        ],
+        "awayScore": [
+            0,
+            7,
+            7,
+            6
+        ],
+        "finalHome": 37,
+        "finalAway": 20
+    },
+    {
+        "week": 1,
+        "homeTeam": "DET",
+        "awayTeam": "LAR",
+        "homeScore": [
+            0,
+            10,
+            7,
+            3,
+            6
+        ],
+        "awayScore": [
+            3,
+            0,
+            7,
+            10,
+            0
+        ],
+        "finalHome": 26,
+        "finalAway": 20
+    },
+    {
+        "week": 1,
+        "homeTeam": "SF",
+        "awayTeam": "NYJ",
+        "homeScore": [
+            3,
+            13,
+            10,
+            6
+        ],
+        "awayScore": [
+            7,
+            0,
+            6,
+            6
+        ],
+        "finalHome": 32,
+        "finalAway": 19
+    },
+    {
+        "week": 2,
+        "homeTeam": "MIA",
+        "awayTeam": "BUF",
+        "homeScore": [
+            7,
+            3,
+            0,
+            0
+        ],
+        "awayScore": [
+            7,
+            17,
+            7,
+            0
+        ],
+        "finalHome": 10,
+        "finalAway": 31
+    },
+    {
+        "week": 2,
+        "homeTeam": "DAL",
+        "awayTeam": "NO",
+        "homeScore": [
+            3,
+            13,
+            3,
+            0
+        ],
+        "awayScore": [
+            14,
+            21,
+            6,
+            3
+        ],
+        "finalHome": 19,
+        "finalAway": 44
+    },
+    {
+        "week": 2,
+        "homeTeam": "DET",
+        "awayTeam": "TB",
+        "homeScore": [
+            3,
+            3,
+            10,
+            0
+        ],
+        "awayScore": [
+            6,
+            7,
+            7,
+            0
+        ],
+        "finalHome": 16,
+        "finalAway": 20
+    },
+    {
+        "week": 2,
+        "homeTeam": "GB",
+        "awayTeam": "IND",
+        "homeScore": [
+            10,
+            0,
+            3,
+            3
+        ],
+        "awayScore": [
+            0,
+            0,
+            3,
+            7
+        ],
+        "finalHome": 16,
+        "finalAway": 10
+    },
+    {
+        "week": 2,
+        "homeTeam": "TEN",
+        "awayTeam": "NYJ",
+        "homeScore": [
+            7,
+            3,
+            7,
+            0
+        ],
+        "awayScore": [
+            0,
+            7,
+            10,
+            7
+        ],
+        "finalHome": 17,
+        "finalAway": 24
+    },
+    {
+        "week": 2,
+        "homeTeam": "MIN",
+        "awayTeam": "SF",
+        "homeScore": [
+            3,
+            10,
+            7,
+            3
+        ],
+        "awayScore": [
+            0,
+            7,
+            0,
+            10
+        ],
+        "finalHome": 23,
+        "finalAway": 17
+    },
+    {
+        "week": 2,
+        "homeTeam": "NE",
+        "awayTeam": "SEA",
+        "homeScore": [
+            7,
+            6,
+            0,
+            7,
+            0
+        ],
+        "awayScore": [
+            7,
+            10,
+            0,
+            3,
+            3
+        ],
+        "finalHome": 20,
+        "finalAway": 23
+    },
+    {
+        "week": 2,
+        "homeTeam": "WSH",
+        "awayTeam": "NYG",
+        "homeScore": [
+            3,
+            6,
+            6,
+            6
+        ],
+        "awayScore": [
+            6,
+            6,
+            0,
+            6
+        ],
+        "finalHome": 21,
+        "finalAway": 18
+    },
+    {
+        "week": 2,
+        "homeTeam": "CAR",
+        "awayTeam": "LAC",
+        "homeScore": [
+            0,
+            0,
+            3,
+            0
+        ],
+        "awayScore": [
+            6,
+            14,
+            3,
+            3
+        ],
+        "finalHome": 3,
+        "finalAway": 26
+    },
+    {
+        "week": 2,
+        "homeTeam": "JAX",
+        "awayTeam": "CLE",
+        "homeScore": [
+            0,
+            3,
+            7,
+            3
+        ],
+        "awayScore": [
+            7,
+            6,
+            3,
+            2
+        ],
+        "finalHome": 13,
+        "finalAway": 18
+    },
+    {
+        "week": 2,
+        "homeTeam": "BAL",
+        "awayTeam": "LV",
+        "homeScore": [
+            3,
+            6,
+            7,
+            7
+        ],
+        "awayScore": [
+            0,
+            6,
+            7,
+            13
+        ],
+        "finalHome": 23,
+        "finalAway": 26
+    },
+    {
+        "week": 2,
+        "homeTeam": "ARI",
+        "awayTeam": "LAR",
+        "homeScore": [
+            14,
+            10,
+            10,
+            7
+        ],
+        "awayScore": [
+            0,
+            3,
+            7,
+            0
+        ],
+        "finalHome": 41,
+        "finalAway": 10
+    },
+    {
+        "week": 2,
+        "homeTeam": "DEN",
+        "awayTeam": "PIT",
+        "homeScore": [
+            0,
+            0,
+            0,
+            6
+        ],
+        "awayScore": [
+            7,
+            3,
+            3,
+            0
+        ],
+        "finalHome": 6,
+        "finalAway": 13
+    },
+    {
+        "week": 2,
+        "homeTeam": "KC",
+        "awayTeam": "CIN",
+        "homeScore": [
+            3,
+            7,
+            7,
+            9
+        ],
+        "awayScore": [
+            3,
+            13,
+            6,
+            3
+        ],
+        "finalHome": 26,
+        "finalAway": 25
+    },
+    {
+        "week": 2,
+        "homeTeam": "HOU",
+        "awayTeam": "CHI",
+        "homeScore": [
+            3,
+            13,
+            0,
+            3
+        ],
+        "awayScore": [
+            3,
+            7,
+            0,
+            3
+        ],
+        "finalHome": 19,
+        "finalAway": 13
+    },
+    {
+        "week": 2,
+        "homeTeam": "PHI",
+        "awayTeam": "ATL",
+        "homeScore": [
+            0,
+            7,
+            3,
+            11
+        ],
+        "awayScore": [
+            0,
+            6,
+            9,
+            7
+        ],
+        "finalHome": 21,
+        "finalAway": 22
+    },
+    {
+        "week": 3,
+        "homeTeam": "NYJ",
+        "awayTeam": "NE",
+        "homeScore": [
+            7,
+            7,
+            7,
+            3
+        ],
+        "awayScore": [
+            0,
+            3,
+            0,
+            0
+        ],
+        "finalHome": 24,
+        "finalAway": 3
+    },
+    {
+        "week": 3,
+        "homeTeam": "CLE",
+        "awayTeam": "NYG",
+        "homeScore": [
+            7,
+            0,
+            0,
+            8
+        ],
+        "awayScore": [
+            7,
+            14,
+            0,
+            0
+        ],
+        "finalHome": 15,
+        "finalAway": 21
+    },
+    {
+        "week": 3,
+        "homeTeam": "TEN",
+        "awayTeam": "GB",
+        "homeScore": [
+            7,
+            0,
+            7,
+            0
+        ],
+        "awayScore": [
+            17,
+            3,
+            7,
+            3
+        ],
+        "finalHome": 14,
+        "finalAway": 30
+    },
+    {
+        "week": 3,
+        "homeTeam": "IND",
+        "awayTeam": "CHI",
+        "homeScore": [
+            0,
+            7,
+            7,
+            7
+        ],
+        "awayScore": [
+            0,
+            0,
+            3,
+            13
+        ],
+        "finalHome": 21,
+        "finalAway": 16
+    },
+    {
+        "week": 3,
+        "homeTeam": "MIN",
+        "awayTeam": "HOU",
+        "homeScore": [
+            14,
+            0,
+            7,
+            13
+        ],
+        "awayScore": [
+            0,
+            0,
+            7,
+            0
+        ],
+        "finalHome": 34,
+        "finalAway": 7
+    },
+    {
+        "week": 3,
+        "homeTeam": "NO",
+        "awayTeam": "PHI",
+        "homeScore": [
+            3,
+            0,
+            0,
+            9
+        ],
+        "awayScore": [
+            0,
+            0,
+            0,
+            15
+        ],
+        "finalHome": 12,
+        "finalAway": 15
+    },
+    {
+        "week": 3,
+        "homeTeam": "PIT",
+        "awayTeam": "LAC",
+        "homeScore": [
+            0,
+            7,
+            3,
+            10
+        ],
+        "awayScore": [
+            7,
+            3,
+            0,
+            0
+        ],
+        "finalHome": 20,
+        "finalAway": 10
+    },
+    {
+        "week": 3,
+        "homeTeam": "TB",
+        "awayTeam": "DEN",
+        "homeScore": [
+            0,
+            7,
+            0,
+            0
+        ],
+        "awayScore": [
+            14,
+            6,
+            0,
+            6
+        ],
+        "finalHome": 7,
+        "finalAway": 26
+    },
+    {
+        "week": 3,
+        "homeTeam": "LV",
+        "awayTeam": "CAR",
+        "homeScore": [
+            7,
+            0,
+            0,
+            15
+        ],
+        "awayScore": [
+            7,
+            14,
+            6,
+            9
+        ],
+        "finalHome": 22,
+        "finalAway": 36
+    },
+    {
+        "week": 3,
+        "homeTeam": "SEA",
+        "awayTeam": "MIA",
+        "homeScore": [
+            17,
+            0,
+            0,
+            7
+        ],
+        "awayScore": [
+            3,
+            0,
+            0,
+            0
+        ],
+        "finalHome": 24,
+        "finalAway": 3
+    },
+    {
+        "week": 3,
+        "homeTeam": "DAL",
+        "awayTeam": "BAL",
+        "homeScore": [
+            3,
+            3,
+            0,
+            19
+        ],
+        "awayScore": [
+            14,
+            7,
+            7,
+            0
+        ],
+        "finalHome": 25,
+        "finalAway": 28
+    },
+    {
+        "week": 3,
+        "homeTeam": "LAR",
+        "awayTeam": "SF",
+        "homeScore": [
+            0,
+            7,
+            7,
+            13
+        ],
+        "awayScore": [
+            14,
+            0,
+            7,
+            3
+        ],
+        "finalHome": 27,
+        "finalAway": 24
+    },
+    {
+        "week": 3,
+        "homeTeam": "ARI",
+        "awayTeam": "DET",
+        "homeScore": [
+            7,
+            3,
+            0,
+            3
+        ],
+        "awayScore": [
+            7,
+            13,
+            0,
+            0
+        ],
+        "finalHome": 13,
+        "finalAway": 20
+    },
+    {
+        "week": 3,
+        "homeTeam": "ATL",
+        "awayTeam": "KC",
+        "homeScore": [
+            7,
+            7,
+            0,
+            3
+        ],
+        "awayScore": [
+            0,
+            13,
+            9,
+            0
+        ],
+        "finalHome": 17,
+        "finalAway": 22
+    },
+    {
+        "week": 3,
+        "homeTeam": "BUF",
+        "awayTeam": "JAX",
+        "homeScore": [
+            13,
+            21,
+            3,
+            10
+        ],
+        "awayScore": [
+            0,
+            3,
+            7,
+            0
+        ],
+        "finalHome": 47,
+        "finalAway": 10
+    },
+    {
+        "week": 3,
+        "homeTeam": "CIN",
+        "awayTeam": "WSH",
+        "homeScore": [
+            7,
+            6,
+            7,
+            13
+        ],
+        "awayScore": [
+            7,
+            14,
+            7,
+            10
+        ],
+        "finalHome": 33,
+        "finalAway": 38
+    },
+    {
+        "week": 4,
+        "homeTeam": "NYG",
+        "awayTeam": "DAL",
+        "homeScore": [
+            3,
+            6,
+            3,
+            3
+        ],
+        "awayScore": [
+            7,
+            7,
+            3,
+            3
+        ],
+        "finalHome": 15,
+        "finalAway": 20
+    },
+    {
+        "week": 4,
+        "homeTeam": "ATL",
+        "awayTeam": "NO",
+        "homeScore": [
+            7,
+            10,
+            3,
+            6
+        ],
+        "awayScore": [
+            7,
+            7,
+            3,
+            7
+        ],
+        "finalHome": 26,
+        "finalAway": 24
+    },
+    {
+        "week": 4,
+        "homeTeam": "CHI",
+        "awayTeam": "LAR",
+        "homeScore": [
+            0,
+            10,
+            7,
+            7
+        ],
+        "awayScore": [
+            3,
+            3,
+            3,
+            9
+        ],
+        "finalHome": 24,
+        "finalAway": 18
+    },
+    {
+        "week": 4,
+        "homeTeam": "GB",
+        "awayTeam": "MIN",
+        "homeScore": [
+            0,
+            7,
+            0,
+            22
+        ],
+        "awayScore": [
+            14,
+            14,
+            0,
+            3
+        ],
+        "finalHome": 29,
+        "finalAway": 31
+    },
+    {
+        "week": 4,
+        "homeTeam": "IND",
+        "awayTeam": "PIT",
+        "homeScore": [
+            14,
+            3,
+            0,
+            10
+        ],
+        "awayScore": [
+            0,
+            3,
+            7,
+            14
+        ],
+        "finalHome": 27,
+        "finalAway": 24
+    },
+    {
+        "week": 4,
+        "homeTeam": "NYJ",
+        "awayTeam": "DEN",
+        "homeScore": [
+            0,
+            6,
+            0,
+            3
+        ],
+        "awayScore": [
+            0,
+            0,
+            7,
+            3
+        ],
+        "finalHome": 9,
+        "finalAway": 10
+    },
+    {
+        "week": 4,
+        "homeTeam": "TB",
+        "awayTeam": "PHI",
+        "homeScore": [
+            14,
+            10,
+            6,
+            3
+        ],
+        "awayScore": [
+            0,
+            7,
+            9,
+            0
+        ],
+        "finalHome": 33,
+        "finalAway": 16
+    },
+    {
+        "week": 4,
+        "homeTeam": "CAR",
+        "awayTeam": "CIN",
+        "homeScore": [
+            0,
+            14,
+            7,
+            3
+        ],
+        "awayScore": [
+            7,
+            14,
+            10,
+            3
+        ],
+        "finalHome": 24,
+        "finalAway": 34
+    },
+    {
+        "week": 4,
+        "homeTeam": "HOU",
+        "awayTeam": "JAX",
+        "homeScore": [
+            7,
+            10,
+            0,
+            7
+        ],
+        "awayScore": [
+            10,
+            3,
+            7,
+            0
+        ],
+        "finalHome": 24,
+        "finalAway": 20
+    },
+    {
+        "week": 4,
+        "homeTeam": "ARI",
+        "awayTeam": "WSH",
+        "homeScore": [
+            7,
+            0,
+            7,
+            0
+        ],
+        "awayScore": [
+            7,
+            10,
+            10,
+            15
+        ],
+        "finalHome": 14,
+        "finalAway": 42
+    },
+    {
+        "week": 4,
+        "homeTeam": "SF",
+        "awayTeam": "NE",
+        "homeScore": [
+            6,
+            14,
+            7,
+            3
+        ],
+        "awayScore": [
+            0,
+            3,
+            7,
+            3
+        ],
+        "finalHome": 30,
+        "finalAway": 13
+    },
+    {
+        "week": 4,
+        "homeTeam": "LV",
+        "awayTeam": "CLE",
+        "homeScore": [
+            0,
+            10,
+            10,
+            0
+        ],
+        "awayScore": [
+            10,
+            0,
+            0,
+            6
+        ],
+        "finalHome": 20,
+        "finalAway": 16
+    },
+    {
+        "week": 4,
+        "homeTeam": "LAC",
+        "awayTeam": "KC",
+        "homeScore": [
+            10,
+            0,
+            0,
+            0
+        ],
+        "awayScore": [
+            0,
+            7,
+            3,
+            7
+        ],
+        "finalHome": 10,
+        "finalAway": 17
+    },
+    {
+        "week": 4,
+        "homeTeam": "BAL",
+        "awayTeam": "BUF",
+        "homeScore": [
+            7,
+            14,
+            7,
+            7
+        ],
+        "awayScore": [
+            3,
+            0,
+            7,
+            0
+        ],
+        "finalHome": 35,
+        "finalAway": 10
+    },
+    {
+        "week": 4,
+        "homeTeam": "MIA",
+        "awayTeam": "TEN",
+        "homeScore": [
+            0,
+            3,
+            3,
+            6
+        ],
+        "awayScore": [
+            0,
+            9,
+            10,
+            12
+        ],
+        "finalHome": 12,
+        "finalAway": 31
+    },
+    {
+        "week": 4,
+        "homeTeam": "DET",
+        "awayTeam": "SEA",
+        "homeScore": [
+            7,
+            14,
+            14,
+            7
+        ],
+        "awayScore": [
+            0,
+            7,
+            13,
+            9
+        ],
+        "finalHome": 42,
+        "finalAway": 29
+    },
+    {
+        "week": 5,
+        "homeTeam": "ATL",
+        "awayTeam": "TB",
+        "homeScore": [
+            7,
+            10,
+            3,
+            10,
+            6
+        ],
+        "awayScore": [
+            10,
+            14,
+            3,
+            3,
+            0
+        ],
+        "finalHome": 36,
+        "finalAway": 30
+    },
+    {
+        "week": 5,
+        "homeTeam": "MIN",
+        "awayTeam": "NYJ",
+        "homeScore": [
+            10,
+            7,
+            0,
+            6
+        ],
+        "awayScore": [
+            0,
+            7,
+            3,
+            7
+        ],
+        "finalHome": 23,
+        "finalAway": 17
+    },
+    {
+        "week": 5,
+        "homeTeam": "CHI",
+        "awayTeam": "CAR",
+        "homeScore": [
+            7,
+            20,
+            3,
+            6
+        ],
+        "awayScore": [
+            7,
+            0,
+            3,
+            0
+        ],
+        "finalHome": 36,
+        "finalAway": 10
+    },
+    {
+        "week": 5,
+        "homeTeam": "CIN",
+        "awayTeam": "BAL",
+        "homeScore": [
+            0,
+            17,
+            7,
+            14,
+            0
+        ],
+        "awayScore": [
+            7,
+            7,
+            7,
+            17,
+            3
+        ],
+        "finalHome": 38,
+        "finalAway": 41
+    },
+    {
+        "week": 5,
+        "homeTeam": "NE",
+        "awayTeam": "MIA",
+        "homeScore": [
+            7,
+            0,
+            3,
+            0
+        ],
+        "awayScore": [
+            3,
+            0,
+            6,
+            6
+        ],
+        "finalHome": 10,
+        "finalAway": 15
+    },
+    {
+        "week": 5,
+        "homeTeam": "WSH",
+        "awayTeam": "CLE",
+        "homeScore": [
+            7,
+            17,
+            10,
+            0
+        ],
+        "awayScore": [
+            0,
+            3,
+            3,
+            7
+        ],
+        "finalHome": 34,
+        "finalAway": 13
+    },
+    {
+        "week": 5,
+        "homeTeam": "JAX",
+        "awayTeam": "IND",
+        "homeScore": [
+            0,
+            13,
+            7,
+            17
+        ],
+        "awayScore": [
+            7,
+            3,
+            0,
+            24
+        ],
+        "finalHome": 37,
+        "finalAway": 34
+    },
+    {
+        "week": 5,
+        "homeTeam": "HOU",
+        "awayTeam": "BUF",
+        "homeScore": [
+            14,
+            3,
+            3,
+            3
+        ],
+        "awayScore": [
+            3,
+            0,
+            14,
+            3
+        ],
+        "finalHome": 23,
+        "finalAway": 20
+    },
+    {
+        "week": 5,
+        "homeTeam": "DEN",
+        "awayTeam": "LV",
+        "homeScore": [
+            0,
+            13,
+            7,
+            14
+        ],
+        "awayScore": [
+            10,
+            0,
+            0,
+            8
+        ],
+        "finalHome": 34,
+        "finalAway": 18
+    },
+    {
+        "week": 5,
+        "homeTeam": "SF",
+        "awayTeam": "ARI",
+        "homeScore": [
+            10,
+            13,
+            0,
+            0
+        ],
+        "awayScore": [
+            7,
+            3,
+            3,
+            11
+        ],
+        "finalHome": 23,
+        "finalAway": 24
+    },
+    {
+        "week": 5,
+        "homeTeam": "LAR",
+        "awayTeam": "GB",
+        "homeScore": [
+            0,
+            13,
+            0,
+            6
+        ],
+        "awayScore": [
+            7,
+            3,
+            14,
+            0
+        ],
+        "finalHome": 19,
+        "finalAway": 24
+    },
+    {
+        "week": 5,
+        "homeTeam": "SEA",
+        "awayTeam": "NYG",
+        "homeScore": [
+            7,
+            3,
+            3,
+            7
+        ],
+        "awayScore": [
+            0,
+            10,
+            10,
+            9
+        ],
+        "finalHome": 20,
+        "finalAway": 29
+    },
+    {
+        "week": 5,
+        "homeTeam": "PIT",
+        "awayTeam": "DAL",
+        "homeScore": [
+            3,
+            0,
+            7,
+            7
+        ],
+        "awayScore": [
+            3,
+            3,
+            0,
+            14
+        ],
+        "finalHome": 17,
+        "finalAway": 20
+    },
+    {
+        "week": 5,
+        "homeTeam": "KC",
+        "awayTeam": "NO",
+        "homeScore": [
+            7,
+            9,
+            0,
+            10
+        ],
+        "awayScore": [
+            0,
+            7,
+            0,
+            6
+        ],
+        "finalHome": 26,
+        "finalAway": 13
+    },
+    {
+        "week": 6,
+        "homeTeam": "SEA",
+        "awayTeam": "SF",
+        "homeScore": [
+            0,
+            3,
+            14,
+            7
+        ],
+        "awayScore": [
+            3,
+            13,
+            7,
+            13
+        ],
+        "finalHome": 24,
+        "finalAway": 36
+    },
+    {
+        "week": 6,
+        "homeTeam": "CHI",
+        "awayTeam": "JAX",
+        "homeScore": [
+            0,
+            14,
+            7,
+            14
+        ],
+        "awayScore": [
+            3,
+            0,
+            7,
+            6
+        ],
+        "finalHome": 35,
+        "finalAway": 16
+    },
+    {
+        "week": 6,
+        "homeTeam": "GB",
+        "awayTeam": "ARI",
+        "homeScore": [
+            7,
+            17,
+            7,
+            3
+        ],
+        "awayScore": [
+            0,
+            10,
+            3,
+            0
+        ],
+        "finalHome": 34,
+        "finalAway": 13
+    },
+    {
+        "week": 6,
+        "homeTeam": "TEN",
+        "awayTeam": "IND",
+        "homeScore": [
+            7,
+            3,
+            7,
+            0
+        ],
+        "awayScore": [
+            7,
+            3,
+            0,
+            10
+        ],
+        "finalHome": 17,
+        "finalAway": 20
+    },
+    {
+        "week": 6,
+        "homeTeam": "NE",
+        "awayTeam": "HOU",
+        "homeScore": [
+            0,
+            7,
+            7,
+            7
+        ],
+        "awayScore": [
+            14,
+            0,
+            13,
+            14
+        ],
+        "finalHome": 21,
+        "finalAway": 41
+    },
+    {
+        "week": 6,
+        "homeTeam": "NO",
+        "awayTeam": "TB",
+        "homeScore": [
+            0,
+            27,
+            0,
+            0
+        ],
+        "awayScore": [
+            17,
+            7,
+            7,
+            20
+        ],
+        "finalHome": 27,
+        "finalAway": 51
+    },
+    {
+        "week": 6,
+        "homeTeam": "PHI",
+        "awayTeam": "CLE",
+        "homeScore": [
+            0,
+            10,
+            3,
+            7
+        ],
+        "awayScore": [
+            0,
+            10,
+            0,
+            6
+        ],
+        "finalHome": 20,
+        "finalAway": 16
+    },
+    {
+        "week": 6,
+        "homeTeam": "BAL",
+        "awayTeam": "WSH",
+        "homeScore": [
+            3,
+            14,
+            10,
+            3
+        ],
+        "awayScore": [
+            3,
+            7,
+            3,
+            10
+        ],
+        "finalHome": 30,
+        "finalAway": 23
+    },
+    {
+        "week": 6,
+        "homeTeam": "DEN",
+        "awayTeam": "LAC",
+        "homeScore": [
+            0,
+            0,
+            0,
+            16
+        ],
+        "awayScore": [
+            10,
+            10,
+            3,
+            0
+        ],
+        "finalHome": 16,
+        "finalAway": 23
+    },
+    {
+        "week": 6,
+        "homeTeam": "LV",
+        "awayTeam": "PIT",
+        "homeScore": [
+            7,
+            0,
+            0,
+            6
+        ],
+        "awayScore": [
+            3,
+            9,
+            10,
+            10
+        ],
+        "finalHome": 13,
+        "finalAway": 32
+    },
+    {
+        "week": 6,
+        "homeTeam": "DAL",
+        "awayTeam": "DET",
+        "homeScore": [
+            3,
+            3,
+            3,
+            0
+        ],
+        "awayScore": [
+            7,
+            20,
+            10,
+            10
+        ],
+        "finalHome": 9,
+        "finalAway": 47
+    },
+    {
+        "week": 6,
+        "homeTeam": "CAR",
+        "awayTeam": "ATL",
+        "homeScore": [
+            7,
+            10,
+            3,
+            0
+        ],
+        "awayScore": [
+            7,
+            15,
+            6,
+            10
+        ],
+        "finalHome": 20,
+        "finalAway": 38
+    },
+    {
+        "week": 6,
+        "homeTeam": "NYG",
+        "awayTeam": "CIN",
+        "homeScore": [
+            0,
+            0,
+            7,
+            0
+        ],
+        "awayScore": [
+            7,
+            0,
+            3,
+            7
+        ],
+        "finalHome": 7,
+        "finalAway": 17
+    },
+    {
+        "week": 6,
+        "homeTeam": "NYJ",
+        "awayTeam": "BUF",
+        "homeScore": [
+            10,
+            7,
+            3,
+            0
+        ],
+        "awayScore": [
+            7,
+            13,
+            0,
+            3
+        ],
+        "finalHome": 20,
+        "finalAway": 23
+    },
+    {
+        "week": 7,
+        "homeTeam": "NO",
+        "awayTeam": "DEN",
+        "homeScore": [
+            0,
+            3,
+            0,
+            7
+        ],
+        "awayScore": [
+            3,
+            13,
+            10,
+            7
+        ],
+        "finalHome": 10,
+        "finalAway": 33
+    },
+    {
+        "week": 7,
+        "homeTeam": "JAX",
+        "awayTeam": "NE",
+        "homeScore": [
+            0,
+            22,
+            3,
+            7
+        ],
+        "awayScore": [
+            7,
+            3,
+            0,
+            6
+        ],
+        "finalHome": 32,
+        "finalAway": 16
+    },
+    {
+        "week": 7,
+        "homeTeam": "ATL",
+        "awayTeam": "SEA",
+        "homeScore": [
+            0,
+            7,
+            7,
+            0
+        ],
+        "awayScore": [
+            3,
+            14,
+            7,
+            10
+        ],
+        "finalHome": 14,
+        "finalAway": 34
+    },
+    {
+        "week": 7,
+        "homeTeam": "BUF",
+        "awayTeam": "TEN",
+        "homeScore": [
+            0,
+            7,
+            10,
+            17
+        ],
+        "awayScore": [
+            3,
+            7,
+            0,
+            0
+        ],
+        "finalHome": 34,
+        "finalAway": 10
+    },
+    {
+        "week": 7,
+        "homeTeam": "CLE",
+        "awayTeam": "CIN",
+        "homeScore": [
+            0,
+            6,
+            0,
+            8
+        ],
+        "awayScore": [
+            7,
+            0,
+            14,
+            0
+        ],
+        "finalHome": 14,
+        "finalAway": 21
+    },
+    {
+        "week": 7,
+        "homeTeam": "GB",
+        "awayTeam": "HOU",
+        "homeScore": [
+            0,
+            14,
+            7,
+            3
+        ],
+        "awayScore": [
+            3,
+            16,
+            0,
+            3
+        ],
+        "finalHome": 24,
+        "finalAway": 22
+    },
+    {
+        "week": 7,
+        "homeTeam": "IND",
+        "awayTeam": "MIA",
+        "homeScore": [
+            0,
+            3,
+            7,
+            6
+        ],
+        "awayScore": [
+            7,
+            3,
+            0,
+            0
+        ],
+        "finalHome": 16,
+        "finalAway": 10
+    },
+    {
+        "week": 7,
+        "homeTeam": "MIN",
+        "awayTeam": "DET",
+        "homeScore": [
+            10,
+            0,
+            7,
+            12
+        ],
+        "awayScore": [
+            0,
+            21,
+            7,
+            3
+        ],
+        "finalHome": 29,
+        "finalAway": 31
+    },
+    {
+        "week": 7,
+        "homeTeam": "NYG",
+        "awayTeam": "PHI",
+        "homeScore": [
+            0,
+            3,
+            0,
+            0
+        ],
+        "awayScore": [
+            0,
+            14,
+            7,
+            7
+        ],
+        "finalHome": 3,
+        "finalAway": 28
+    },
+    {
+        "week": 7,
+        "homeTeam": "LAR",
+        "awayTeam": "LV",
+        "homeScore": [
+            0,
+            14,
+            6,
+            0
+        ],
+        "awayScore": [
+            0,
+            6,
+            3,
+            6
+        ],
+        "finalHome": 20,
+        "finalAway": 15
+    },
+    {
+        "week": 7,
+        "homeTeam": "WSH",
+        "awayTeam": "CAR",
+        "homeScore": [
+            10,
+            17,
+            10,
+            3
+        ],
+        "awayScore": [
+            0,
+            0,
+            0,
+            7
+        ],
+        "finalHome": 40,
+        "finalAway": 7
+    },
+    {
+        "week": 7,
+        "homeTeam": "SF",
+        "awayTeam": "KC",
+        "homeScore": [
+            3,
+            3,
+            6,
+            6
+        ],
+        "awayScore": [
+            0,
+            14,
+            0,
+            14
+        ],
+        "finalHome": 18,
+        "finalAway": 28
+    },
+    {
+        "week": 7,
+        "homeTeam": "PIT",
+        "awayTeam": "NYJ",
+        "homeScore": [
+            3,
+            10,
+            10,
+            14
+        ],
+        "awayScore": [
+            7,
+            8,
+            0,
+            0
+        ],
+        "finalHome": 37,
+        "finalAway": 15
+    },
+    {
+        "week": 7,
+        "homeTeam": "TB",
+        "awayTeam": "BAL",
+        "homeScore": [
+            10,
+            0,
+            0,
+            21
+        ],
+        "awayScore": [
+            0,
+            17,
+            17,
+            7
+        ],
+        "finalHome": 31,
+        "finalAway": 41
+    },
+    {
+        "week": 7,
+        "homeTeam": "ARI",
+        "awayTeam": "LAC",
+        "homeScore": [
+            0,
+            7,
+            0,
+            10
+        ],
+        "awayScore": [
+            0,
+            6,
+            3,
+            6
+        ],
+        "finalHome": 17,
+        "finalAway": 15
+    },
+    {
+        "week": 8,
+        "homeTeam": "LAR",
+        "awayTeam": "MIN",
+        "homeScore": [
+            7,
+            7,
+            7,
+            9
+        ],
+        "awayScore": [
+            14,
+            0,
+            3,
+            3
+        ],
+        "finalHome": 30,
+        "finalAway": 20
+    },
+    {
+        "week": 8,
+        "homeTeam": "CIN",
+        "awayTeam": "PHI",
+        "homeScore": [
+            7,
+            3,
+            7,
+            0
+        ],
+        "awayScore": [
+            0,
+            10,
+            14,
+            13
+        ],
+        "finalHome": 17,
+        "finalAway": 37
+    },
+    {
+        "week": 8,
+        "homeTeam": "CLE",
+        "awayTeam": "BAL",
+        "homeScore": [
+            3,
+            3,
+            14,
+            9
+        ],
+        "awayScore": [
+            0,
+            10,
+            7,
+            7
+        ],
+        "finalHome": 29,
+        "finalAway": 24
+    },
+    {
+        "week": 8,
+        "homeTeam": "DET",
+        "awayTeam": "TEN",
+        "homeScore": [
+            14,
+            21,
+            17,
+            0
+        ],
+        "awayScore": [
+            7,
+            7,
+            0,
+            0
+        ],
+        "finalHome": 52,
+        "finalAway": 14
+    },
+    {
+        "week": 8,
+        "homeTeam": "MIA",
+        "awayTeam": "ARI",
+        "homeScore": [
+            10,
+            3,
+            7,
+            7
+        ],
+        "awayScore": [
+            0,
+            7,
+            11,
+            10
+        ],
+        "finalHome": 27,
+        "finalAway": 28
+    },
+    {
+        "week": 8,
+        "homeTeam": "NE",
+        "awayTeam": "NYJ",
+        "homeScore": [
+            7,
+            0,
+            7,
+            11
+        ],
+        "awayScore": [
+            6,
+            7,
+            3,
+            6
+        ],
+        "finalHome": 25,
+        "finalAway": 22
+    },
+    {
+        "week": 8,
+        "homeTeam": "TB",
+        "awayTeam": "ATL",
+        "homeScore": [
+            7,
+            10,
+            0,
+            9
+        ],
+        "awayScore": [
+            7,
+            17,
+            7,
+            0
+        ],
+        "finalHome": 26,
+        "finalAway": 31
+    },
+    {
+        "week": 8,
+        "homeTeam": "JAX",
+        "awayTeam": "GB",
+        "homeScore": [
+            0,
+            10,
+            7,
+            10
+        ],
+        "awayScore": [
+            0,
+            13,
+            7,
+            10
+        ],
+        "finalHome": 27,
+        "finalAway": 30
+    },
+    {
+        "week": 8,
+        "homeTeam": "HOU",
+        "awayTeam": "IND",
+        "homeScore": [
+            3,
+            14,
+            3,
+            3
+        ],
+        "awayScore": [
+            10,
+            0,
+            3,
+            7
+        ],
+        "finalHome": 23,
+        "finalAway": 20
+    },
+    {
+        "week": 8,
+        "homeTeam": "LAC",
+        "awayTeam": "NO",
+        "homeScore": [
+            0,
+            9,
+            7,
+            10
+        ],
+        "awayScore": [
+            2,
+            3,
+            3,
+            0
+        ],
+        "finalHome": 26,
+        "finalAway": 8
+    },
+    {
+        "week": 8,
+        "homeTeam": "SEA",
+        "awayTeam": "BUF",
+        "homeScore": [
+            0,
+            3,
+            0,
+            7
+        ],
+        "awayScore": [
+            7,
+            7,
+            10,
+            7
+        ],
+        "finalHome": 10,
+        "finalAway": 31
+    },
+    {
+        "week": 8,
+        "homeTeam": "DEN",
+        "awayTeam": "CAR",
+        "homeScore": [
+            0,
+            21,
+            7,
+            0
+        ],
+        "awayScore": [
+            7,
+            0,
+            0,
+            7
+        ],
+        "finalHome": 28,
+        "finalAway": 14
+    },
+    {
+        "week": 8,
+        "homeTeam": "LV",
+        "awayTeam": "KC",
+        "homeScore": [
+            7,
+            3,
+            3,
+            7
+        ],
+        "awayScore": [
+            7,
+            10,
+            0,
+            10
+        ],
+        "finalHome": 20,
+        "finalAway": 27
+    },
+    {
+        "week": 8,
+        "homeTeam": "WSH",
+        "awayTeam": "CHI",
+        "homeScore": [
+            6,
+            3,
+            3,
+            6
+        ],
+        "awayScore": [
+            0,
+            0,
+            7,
+            8
+        ],
+        "finalHome": 18,
+        "finalAway": 15
+    },
+    {
+        "week": 8,
+        "homeTeam": "SF",
+        "awayTeam": "DAL",
+        "homeScore": [
+            3,
+            3,
+            21,
+            3
+        ],
+        "awayScore": [
+            0,
+            10,
+            0,
+            14
+        ],
+        "finalHome": 30,
+        "finalAway": 24
+    },
+    {
+        "week": 8,
+        "homeTeam": "PIT",
+        "awayTeam": "NYG",
+        "homeScore": [
+            6,
+            3,
+            7,
+            10
+        ],
+        "awayScore": [
+            3,
+            6,
+            0,
+            9
+        ],
+        "finalHome": 26,
+        "finalAway": 18
+    },
+    {
+        "week": 9,
+        "homeTeam": "NYJ",
+        "awayTeam": "HOU",
+        "homeScore": [
+            0,
+            0,
+            7,
+            14
+        ],
+        "awayScore": [
+            0,
+            7,
+            3,
+            3
+        ],
+        "finalHome": 21,
+        "finalAway": 13
+    },
+    {
+        "week": 9,
+        "homeTeam": "ATL",
+        "awayTeam": "DAL",
+        "homeScore": [
+            7,
+            7,
+            7,
+            6
+        ],
+        "awayScore": [
+            3,
+            7,
+            3,
+            8
+        ],
+        "finalHome": 27,
+        "finalAway": 21
+    },
+    {
+        "week": 9,
+        "homeTeam": "BUF",
+        "awayTeam": "MIA",
+        "homeScore": [
+            3,
+            3,
+            14,
+            10
+        ],
+        "awayScore": [
+            3,
+            7,
+            3,
+            14
+        ],
+        "finalHome": 30,
+        "finalAway": 27
+    },
+    {
+        "week": 9,
+        "homeTeam": "CIN",
+        "awayTeam": "LV",
+        "homeScore": [
+            7,
+            10,
+            14,
+            10
+        ],
+        "awayScore": [
+            7,
+            3,
+            0,
+            14
+        ],
+        "finalHome": 41,
+        "finalAway": 24
+    },
+    {
+        "week": 9,
+        "homeTeam": "CLE",
+        "awayTeam": "LAC",
+        "homeScore": [
+            0,
+            3,
+            0,
+            7
+        ],
+        "awayScore": [
+            7,
+            13,
+            0,
+            7
+        ],
+        "finalHome": 10,
+        "finalAway": 27
+    },
+    {
+        "week": 9,
+        "homeTeam": "TEN",
+        "awayTeam": "NE",
+        "homeScore": [
+            7,
+            0,
+            3,
+            7,
+            3
+        ],
+        "awayScore": [
+            0,
+            3,
+            7,
+            7,
+            0
+        ],
+        "finalHome": 20,
+        "finalAway": 17
+    },
+    {
+        "week": 9,
+        "homeTeam": "NYG",
+        "awayTeam": "WSH",
+        "homeScore": [
+            0,
+            7,
+            3,
+            12
+        ],
+        "awayScore": [
+            7,
+            14,
+            3,
+            3
+        ],
+        "finalHome": 22,
+        "finalAway": 27
+    },
+    {
+        "week": 9,
+        "homeTeam": "CAR",
+        "awayTeam": "NO",
+        "homeScore": [
+            0,
+            10,
+            7,
+            6
+        ],
+        "awayScore": [
+            6,
+            7,
+            3,
+            6
+        ],
+        "finalHome": 23,
+        "finalAway": 22
+    },
+    {
+        "week": 9,
+        "homeTeam": "BAL",
+        "awayTeam": "DEN",
+        "homeScore": [
+            7,
+            17,
+            14,
+            3
+        ],
+        "awayScore": [
+            0,
+            10,
+            0,
+            0
+        ],
+        "finalHome": 41,
+        "finalAway": 10
+    },
+    {
+        "week": 9,
+        "homeTeam": "PHI",
+        "awayTeam": "JAX",
+        "homeScore": [
+            7,
+            9,
+            6,
+            6
+        ],
+        "awayScore": [
+            0,
+            0,
+            16,
+            7
+        ],
+        "finalHome": 28,
+        "finalAway": 23
+    },
+    {
+        "week": 9,
+        "homeTeam": "ARI",
+        "awayTeam": "CHI",
+        "homeScore": [
+            7,
+            14,
+            3,
+            5
+        ],
+        "awayScore": [
+            0,
+            9,
+            0,
+            0
+        ],
+        "finalHome": 29,
+        "finalAway": 9
+    },
+    {
+        "week": 9,
+        "homeTeam": "GB",
+        "awayTeam": "DET",
+        "homeScore": [
+            3,
+            0,
+            3,
+            8
+        ],
+        "awayScore": [
+            0,
+            17,
+            7,
+            0
+        ],
+        "finalHome": 14,
+        "finalAway": 24
+    },
+    {
+        "week": 9,
+        "homeTeam": "SEA",
+        "awayTeam": "LAR",
+        "homeScore": [
+            0,
+            13,
+            0,
+            7,
+            0
+        ],
+        "awayScore": [
+            0,
+            3,
+            10,
+            7,
+            6
+        ],
+        "finalHome": 20,
+        "finalAway": 26
+    },
+    {
+        "week": 9,
+        "homeTeam": "MIN",
+        "awayTeam": "IND",
+        "homeScore": [
+            0,
+            0,
+            14,
+            7
+        ],
+        "awayScore": [
+            0,
+            7,
+            0,
+            6
+        ],
+        "finalHome": 21,
+        "finalAway": 13
+    },
+    {
+        "week": 9,
+        "homeTeam": "KC",
+        "awayTeam": "TB",
+        "homeScore": [
+            3,
+            7,
+            0,
+            14,
+            6
+        ],
+        "awayScore": [
+            0,
+            7,
+            10,
+            7,
+            0
+        ],
+        "finalHome": 30,
+        "finalAway": 24
+    },
+    {
+        "week": 10,
+        "homeTeam": "BAL",
+        "awayTeam": "CIN",
+        "homeScore": [
+            0,
+            7,
+            7,
+            21
+        ],
+        "awayScore": [
+            7,
+            7,
+            7,
+            13
+        ],
+        "finalHome": 35,
+        "finalAway": 34
+    },
+    {
+        "week": 10,
+        "homeTeam": "CAR",
+        "awayTeam": "NYG",
+        "homeScore": [
+            7,
+            3,
+            7,
+            0,
+            3
+        ],
+        "awayScore": [
+            0,
+            0,
+            7,
+            10,
+            0
+        ],
+        "finalHome": 20,
+        "finalAway": 17
+    },
+    {
+        "week": 10,
+        "homeTeam": "CHI",
+        "awayTeam": "NE",
+        "homeScore": [
+            0,
+            3,
+            0,
+            0
+        ],
+        "awayScore": [
+            3,
+            10,
+            0,
+            6
+        ],
+        "finalHome": 3,
+        "finalAway": 19
+    },
+    {
+        "week": 10,
+        "homeTeam": "IND",
+        "awayTeam": "BUF",
+        "homeScore": [
+            3,
+            10,
+            0,
+            7
+        ],
+        "awayScore": [
+            10,
+            10,
+            0,
+            10
+        ],
+        "finalHome": 20,
+        "finalAway": 30
+    },
+    {
+        "week": 10,
+        "homeTeam": "KC",
+        "awayTeam": "DEN",
+        "homeScore": [
+            0,
+            10,
+            3,
+            3
+        ],
+        "awayScore": [
+            0,
+            14,
+            0,
+            0
+        ],
+        "finalHome": 16,
+        "finalAway": 14
+    },
+    {
+        "week": 10,
+        "homeTeam": "NO",
+        "awayTeam": "ATL",
+        "homeScore": [
+            0,
+            17,
+            3,
+            0
+        ],
+        "awayScore": [
+            0,
+            7,
+            10,
+            0
+        ],
+        "finalHome": 20,
+        "finalAway": 17
+    },
+    {
+        "week": 10,
+        "homeTeam": "TB",
+        "awayTeam": "SF",
+        "homeScore": [
+            0,
+            3,
+            7,
+            10
+        ],
+        "awayScore": [
+            7,
+            3,
+            3,
+            10
+        ],
+        "finalHome": 20,
+        "finalAway": 23
+    },
+    {
+        "week": 10,
+        "homeTeam": "WSH",
+        "awayTeam": "PIT",
+        "homeScore": [
+            7,
+            10,
+            10,
+            0
+        ],
+        "awayScore": [
+            7,
+            7,
+            7,
+            7
+        ],
+        "finalHome": 27,
+        "finalAway": 28
+    },
+    {
+        "week": 10,
+        "homeTeam": "JAX",
+        "awayTeam": "MIN",
+        "homeScore": [
+            7,
+            0,
+            0,
+            0
+        ],
+        "awayScore": [
+            3,
+            0,
+            3,
+            6
+        ],
+        "finalHome": 7,
+        "finalAway": 12
+    },
+    {
+        "week": 10,
+        "homeTeam": "LAC",
+        "awayTeam": "TEN",
+        "homeScore": [
+            3,
+            10,
+            7,
+            7
+        ],
+        "awayScore": [
+            7,
+            0,
+            3,
+            7
+        ],
+        "finalHome": 27,
+        "finalAway": 17
+    },
+    {
+        "week": 10,
+        "homeTeam": "DAL",
+        "awayTeam": "PHI",
+        "homeScore": [
+            3,
+            3,
+            0,
+            0
+        ],
+        "awayScore": [
+            7,
+            7,
+            14,
+            6
+        ],
+        "finalHome": 6,
+        "finalAway": 34
+    },
+    {
+        "week": 10,
+        "homeTeam": "ARI",
+        "awayTeam": "NYJ",
+        "homeScore": [
+            14,
+            10,
+            7,
+            0
+        ],
+        "awayScore": [
+            3,
+            3,
+            0,
+            0
+        ],
+        "finalHome": 31,
+        "finalAway": 6
+    },
+    {
+        "week": 10,
+        "homeTeam": "HOU",
+        "awayTeam": "DET",
+        "homeScore": [
+            10,
+            13,
+            0,
+            0
+        ],
+        "awayScore": [
+            0,
+            7,
+            6,
+            13
+        ],
+        "finalHome": 23,
+        "finalAway": 26
+    },
+    {
+        "week": 10,
+        "homeTeam": "LAR",
+        "awayTeam": "MIA",
+        "homeScore": [
+            0,
+            6,
+            0,
+            9
+        ],
+        "awayScore": [
+            7,
+            3,
+            7,
+            6
+        ],
+        "finalHome": 15,
+        "finalAway": 23
+    },
+    {
+        "week": 11,
+        "homeTeam": "PHI",
+        "awayTeam": "WSH",
+        "homeScore": [
+            0,
+            3,
+            3,
+            20
+        ],
+        "awayScore": [
+            7,
+            0,
+            3,
+            8
+        ],
+        "finalHome": 26,
+        "finalAway": 18
+    },
+    {
+        "week": 11,
+        "homeTeam": "CHI",
+        "awayTeam": "GB",
+        "homeScore": [
+            3,
+            7,
+            9,
+            0
+        ],
+        "awayScore": [
+            7,
+            0,
+            7,
+            6
+        ],
+        "finalHome": 19,
+        "finalAway": 20
+    },
+    {
+        "week": 11,
+        "homeTeam": "DET",
+        "awayTeam": "JAX",
+        "homeScore": [
+            7,
+            21,
+            14,
+            10
+        ],
+        "awayScore": [
+            3,
+            3,
+            0,
+            0
+        ],
+        "finalHome": 52,
+        "finalAway": 6
+    },
+    {
+        "week": 11,
+        "homeTeam": "TEN",
+        "awayTeam": "MIN",
+        "homeScore": [
+            3,
+            0,
+            7,
+            3
+        ],
+        "awayScore": [
+            7,
+            9,
+            7,
+            0
+        ],
+        "finalHome": 13,
+        "finalAway": 23
+    },
+    {
+        "week": 11,
+        "homeTeam": "MIA",
+        "awayTeam": "LV",
+        "homeScore": [
+            7,
+            3,
+            7,
+            17
+        ],
+        "awayScore": [
+            3,
+            3,
+            6,
+            7
+        ],
+        "finalHome": 34,
+        "finalAway": 19
+    },
+    {
+        "week": 11,
+        "homeTeam": "NE",
+        "awayTeam": "LAR",
+        "homeScore": [
+            7,
+            3,
+            3,
+            9
+        ],
+        "awayScore": [
+            0,
+            14,
+            14,
+            0
+        ],
+        "finalHome": 22,
+        "finalAway": 28
+    },
+    {
+        "week": 11,
+        "homeTeam": "NO",
+        "awayTeam": "CLE",
+        "homeScore": [
+            7,
+            7,
+            0,
+            21
+        ],
+        "awayScore": [
+            6,
+            0,
+            8,
+            0
+        ],
+        "finalHome": 35,
+        "finalAway": 14
+    },
+    {
+        "week": 11,
+        "homeTeam": "NYJ",
+        "awayTeam": "IND",
+        "homeScore": [
+            0,
+            7,
+            10,
+            10
+        ],
+        "awayScore": [
+            3,
+            10,
+            3,
+            12
+        ],
+        "finalHome": 27,
+        "finalAway": 28
+    },
+    {
+        "week": 11,
+        "homeTeam": "PIT",
+        "awayTeam": "BAL",
+        "homeScore": [
+            3,
+            6,
+            6,
+            3
+        ],
+        "awayScore": [
+            0,
+            7,
+            3,
+            6
+        ],
+        "finalHome": 18,
+        "finalAway": 16
+    },
+    {
+        "week": 11,
+        "homeTeam": "DEN",
+        "awayTeam": "ATL",
+        "homeScore": [
+            7,
+            14,
+            7,
+            10
+        ],
+        "awayScore": [
+            3,
+            3,
+            0,
+            0
+        ],
+        "finalHome": 38,
+        "finalAway": 6
+    },
+    {
+        "week": 11,
+        "homeTeam": "SF",
+        "awayTeam": "SEA",
+        "homeScore": [
+            7,
+            0,
+            3,
+            7
+        ],
+        "awayScore": [
+            3,
+            3,
+            7,
+            7
+        ],
+        "finalHome": 17,
+        "finalAway": 20
+    },
+    {
+        "week": 11,
+        "homeTeam": "BUF",
+        "awayTeam": "KC",
+        "homeScore": [
+            6,
+            10,
+            0,
+            14
+        ],
+        "awayScore": [
+            0,
+            14,
+            0,
+            7
+        ],
+        "finalHome": 30,
+        "finalAway": 21
+    },
+    {
+        "week": 11,
+        "homeTeam": "LAC",
+        "awayTeam": "CIN",
+        "homeScore": [
+            7,
+            17,
+            3,
+            7
+        ],
+        "awayScore": [
+            3,
+            3,
+            14,
+            7
+        ],
+        "finalHome": 34,
+        "finalAway": 27
+    },
+    {
+        "week": 11,
+        "homeTeam": "DAL",
+        "awayTeam": "HOU",
+        "homeScore": [
+            0,
+            10,
+            0,
+            0
+        ],
+        "awayScore": [
+            14,
+            3,
+            3,
+            14
+        ],
+        "finalHome": 10,
+        "finalAway": 34
+    },
+    {
+        "week": 12,
+        "homeTeam": "CLE",
+        "awayTeam": "PIT",
+        "homeScore": [
+            0,
+            10,
+            0,
+            14
+        ],
+        "awayScore": [
+            0,
+            3,
+            3,
+            13
+        ],
+        "finalHome": 24,
+        "finalAway": 19
+    },
+    {
+        "week": 12,
+        "homeTeam": "CHI",
+        "awayTeam": "MIN",
+        "homeScore": [
+            7,
+            3,
+            0,
+            17,
+            0
+        ],
+        "awayScore": [
+            0,
+            14,
+            10,
+            3,
+            3
+        ],
+        "finalHome": 27,
+        "finalAway": 30
+    },
+    {
+        "week": 12,
+        "homeTeam": "IND",
+        "awayTeam": "DET",
+        "homeScore": [
+            3,
+            3,
+            0,
+            0
+        ],
+        "awayScore": [
+            0,
+            14,
+            7,
+            3
+        ],
+        "finalHome": 6,
+        "finalAway": 24
+    },
+    {
+        "week": 12,
+        "homeTeam": "MIA",
+        "awayTeam": "NE",
+        "homeScore": [
+            0,
+            24,
+            7,
+            3
+        ],
+        "awayScore": [
+            0,
+            0,
+            0,
+            15
+        ],
+        "finalHome": 34,
+        "finalAway": 15
+    },
+    {
+        "week": 12,
+        "homeTeam": "NYG",
+        "awayTeam": "TB",
+        "homeScore": [
+            0,
+            0,
+            0,
+            7
+        ],
+        "awayScore": [
+            7,
+            16,
+            7,
+            0
+        ],
+        "finalHome": 7,
+        "finalAway": 30
+    },
+    {
+        "week": 12,
+        "homeTeam": "WSH",
+        "awayTeam": "DAL",
+        "homeScore": [
+            3,
+            0,
+            6,
+            17
+        ],
+        "awayScore": [
+            0,
+            3,
+            7,
+            24
+        ],
+        "finalHome": 26,
+        "finalAway": 34
+    },
+    {
+        "week": 12,
+        "homeTeam": "CAR",
+        "awayTeam": "KC",
+        "homeScore": [
+            3,
+            6,
+            7,
+            11
+        ],
+        "awayScore": [
+            10,
+            10,
+            7,
+            3
+        ],
+        "finalHome": 27,
+        "finalAway": 30
+    },
+    {
+        "week": 12,
+        "homeTeam": "HOU",
+        "awayTeam": "TEN",
+        "homeScore": [
+            7,
+            10,
+            7,
+            3
+        ],
+        "awayScore": [
+            10,
+            10,
+            3,
+            9
+        ],
+        "finalHome": 27,
+        "finalAway": 32
+    },
+    {
+        "week": 12,
+        "homeTeam": "LV",
+        "awayTeam": "DEN",
+        "homeScore": [
+            0,
+            13,
+            0,
+            6
+        ],
+        "awayScore": [
+            3,
+            6,
+            7,
+            13
+        ],
+        "finalHome": 19,
+        "finalAway": 29
+    },
+    {
+        "week": 12,
+        "homeTeam": "GB",
+        "awayTeam": "SF",
+        "homeScore": [
+            10,
+            7,
+            7,
+            14
+        ],
+        "awayScore": [
+            0,
+            7,
+            3,
+            0
+        ],
+        "finalHome": 38,
+        "finalAway": 10
+    },
+    {
+        "week": 12,
+        "homeTeam": "SEA",
+        "awayTeam": "ARI",
+        "homeScore": [
+            0,
+            7,
+            6,
+            3
+        ],
+        "awayScore": [
+            0,
+            3,
+            0,
+            3
+        ],
+        "finalHome": 16,
+        "finalAway": 6
+    },
+    {
+        "week": 12,
+        "homeTeam": "LAR",
+        "awayTeam": "PHI",
+        "homeScore": [
+            7,
+            0,
+            7,
+            6
+        ],
+        "awayScore": [
+            3,
+            10,
+            14,
+            10
+        ],
+        "finalHome": 20,
+        "finalAway": 37
+    },
+    {
+        "week": 12,
+        "homeTeam": "LAC",
+        "awayTeam": "BAL",
+        "homeScore": [
+            7,
+            6,
+            3,
+            7
+        ],
+        "awayScore": [
+            0,
+            14,
+            3,
+            13
+        ],
+        "finalHome": 23,
+        "finalAway": 30
+    },
+    {
+        "week": 13,
+        "homeTeam": "DET",
+        "awayTeam": "CHI",
+        "homeScore": [
+            3,
+            13,
+            7,
+            0
+        ],
+        "awayScore": [
+            0,
+            0,
+            7,
+            13
+        ],
+        "finalHome": 23,
+        "finalAway": 20
+    },
+    {
+        "week": 13,
+        "homeTeam": "DAL",
+        "awayTeam": "NYG",
+        "homeScore": [
+            3,
+            10,
+            14,
+            0
+        ],
+        "awayScore": [
+            7,
+            3,
+            0,
+            10
+        ],
+        "finalHome": 27,
+        "finalAway": 20
+    },
+    {
+        "week": 13,
+        "homeTeam": "GB",
+        "awayTeam": "MIA",
+        "homeScore": [
+            14,
+            10,
+            3,
+            3
+        ],
+        "awayScore": [
+            0,
+            3,
+            8,
+            6
+        ],
+        "finalHome": 30,
+        "finalAway": 17
+    },
+    {
+        "week": 13,
+        "homeTeam": "KC",
+        "awayTeam": "LV",
+        "homeScore": [
+            3,
+            7,
+            6,
+            3
+        ],
+        "awayScore": [
+            0,
+            3,
+            7,
+            7
+        ],
+        "finalHome": 19,
+        "finalAway": 17
+    },
+    {
+        "week": 13,
+        "homeTeam": "ATL",
+        "awayTeam": "LAC",
+        "homeScore": [
+            7,
+            0,
+            6,
+            0
+        ],
+        "awayScore": [
+            3,
+            6,
+            8,
+            0
+        ],
+        "finalHome": 13,
+        "finalAway": 17
+    },
+    {
+        "week": 13,
+        "homeTeam": "CIN",
+        "awayTeam": "PIT",
+        "homeScore": [
+            14,
+            7,
+            3,
+            14
+        ],
+        "awayScore": [
+            7,
+            20,
+            7,
+            10
+        ],
+        "finalHome": 38,
+        "finalAway": 44
+    },
+    {
+        "week": 13,
+        "homeTeam": "MIN",
+        "awayTeam": "ARI",
+        "homeScore": [
+            3,
+            3,
+            7,
+            10
+        ],
+        "awayScore": [
+            3,
+            6,
+            10,
+            3
+        ],
+        "finalHome": 23,
+        "finalAway": 22
+    },
+    {
+        "week": 13,
+        "homeTeam": "NE",
+        "awayTeam": "IND",
+        "homeScore": [
+            6,
+            10,
+            0,
+            8
+        ],
+        "awayScore": [
+            7,
+            7,
+            3,
+            8
+        ],
+        "finalHome": 24,
+        "finalAway": 25
+    },
+    {
+        "week": 13,
+        "homeTeam": "NYJ",
+        "awayTeam": "SEA",
+        "homeScore": [
+            14,
+            7,
+            0,
+            0
+        ],
+        "awayScore": [
+            0,
+            16,
+            0,
+            10
+        ],
+        "finalHome": 21,
+        "finalAway": 26
+    },
+    {
+        "week": 13,
+        "homeTeam": "WSH",
+        "awayTeam": "TEN",
+        "homeScore": [
+            21,
+            7,
+            0,
+            14
+        ],
+        "awayScore": [
+            0,
+            7,
+            6,
+            6
+        ],
+        "finalHome": 42,
+        "finalAway": 19
+    },
+    {
+        "week": 13,
+        "homeTeam": "JAX",
+        "awayTeam": "HOU",
+        "homeScore": [
+            0,
+            3,
+            3,
+            14
+        ],
+        "awayScore": [
+            0,
+            6,
+            10,
+            7
+        ],
+        "finalHome": 20,
+        "finalAway": 23
+    },
+    {
+        "week": 13,
+        "homeTeam": "NO",
+        "awayTeam": "LAR",
+        "homeScore": [
+            3,
+            3,
+            0,
+            8
+        ],
+        "awayScore": [
+            0,
+            0,
+            7,
+            14
+        ],
+        "finalHome": 14,
+        "finalAway": 21
+    },
+    {
+        "week": 13,
+        "homeTeam": "CAR",
+        "awayTeam": "TB",
+        "homeScore": [
+            3,
+            10,
+            3,
+            7,
+            0
+        ],
+        "awayScore": [
+            7,
+            3,
+            0,
+            13,
+            3
+        ],
+        "finalHome": 23,
+        "finalAway": 26
+    },
+    {
+        "week": 13,
+        "homeTeam": "BAL",
+        "awayTeam": "PHI",
+        "homeScore": [
+            9,
+            3,
+            0,
+            7
+        ],
+        "awayScore": [
+            0,
+            14,
+            0,
+            10
+        ],
+        "finalHome": 19,
+        "finalAway": 24
+    },
+    {
+        "week": 13,
+        "homeTeam": "BUF",
+        "awayTeam": "SF",
+        "homeScore": [
+            7,
+            14,
+            7,
+            7
+        ],
+        "awayScore": [
+            3,
+            0,
+            7,
+            0
+        ],
+        "finalHome": 35,
+        "finalAway": 10
+    },
+    {
+        "week": 13,
+        "homeTeam": "DEN",
+        "awayTeam": "CLE",
+        "homeScore": [
+            7,
+            14,
+            10,
+            10
+        ],
+        "awayScore": [
+            7,
+            10,
+            8,
+            7
+        ],
+        "finalHome": 41,
+        "finalAway": 32
+    },
+    {
+        "week": 14,
+        "homeTeam": "DET",
+        "awayTeam": "GB",
+        "homeScore": [
+            7,
+            10,
+            7,
+            10
+        ],
+        "awayScore": [
+            0,
+            7,
+            14,
+            10
+        ],
+        "finalHome": 34,
+        "finalAway": 31
+    },
+    {
+        "week": 14,
+        "homeTeam": "TEN",
+        "awayTeam": "JAX",
+        "homeScore": [
+            3,
+            0,
+            3,
+            0
+        ],
+        "awayScore": [
+            0,
+            0,
+            0,
+            10
+        ],
+        "finalHome": 6,
+        "finalAway": 10
+    },
+    {
+        "week": 14,
+        "homeTeam": "MIA",
+        "awayTeam": "NYJ",
+        "homeScore": [
+            6,
+            9,
+            0,
+            11,
+            6
+        ],
+        "awayScore": [
+            3,
+            10,
+            10,
+            3,
+            0
+        ],
+        "finalHome": 32,
+        "finalAway": 26
+    },
+    {
+        "week": 14,
+        "homeTeam": "MIN",
+        "awayTeam": "ATL",
+        "homeScore": [
+            7,
+            7,
+            7,
+            21
+        ],
+        "awayScore": [
+            7,
+            3,
+            11,
+            0
+        ],
+        "finalHome": 42,
+        "finalAway": 21
+    },
+    {
+        "week": 14,
+        "homeTeam": "NYG",
+        "awayTeam": "NO",
+        "homeScore": [
+            0,
+            3,
+            0,
+            8
+        ],
+        "awayScore": [
+            7,
+            0,
+            7,
+            0
+        ],
+        "finalHome": 11,
+        "finalAway": 14
+    },
+    {
+        "week": 14,
+        "homeTeam": "PHI",
+        "awayTeam": "CAR",
+        "homeScore": [
+            0,
+            14,
+            0,
+            8
+        ],
+        "awayScore": [
+            3,
+            7,
+            6,
+            0
+        ],
+        "finalHome": 22,
+        "finalAway": 16
+    },
+    {
+        "week": 14,
+        "homeTeam": "PIT",
+        "awayTeam": "CLE",
+        "homeScore": [
+            3,
+            10,
+            14,
+            0
+        ],
+        "awayScore": [
+            7,
+            0,
+            0,
+            7
+        ],
+        "finalHome": 27,
+        "finalAway": 14
+    },
+    {
+        "week": 14,
+        "homeTeam": "TB",
+        "awayTeam": "LV",
+        "homeScore": [
+            14,
+            0,
+            0,
+            14
+        ],
+        "awayScore": [
+            0,
+            10,
+            0,
+            3
+        ],
+        "finalHome": 28,
+        "finalAway": 13
+    },
+    {
+        "week": 14,
+        "homeTeam": "ARI",
+        "awayTeam": "SEA",
+        "homeScore": [
+            7,
+            3,
+            8,
+            0
+        ],
+        "awayScore": [
+            17,
+            7,
+            3,
+            3
+        ],
+        "finalHome": 18,
+        "finalAway": 30
+    },
+    {
+        "week": 14,
+        "homeTeam": "LAR",
+        "awayTeam": "BUF",
+        "homeScore": [
+            7,
+            17,
+            14,
+            6
+        ],
+        "awayScore": [
+            7,
+            7,
+            7,
+            21
+        ],
+        "finalHome": 44,
+        "finalAway": 42
+    },
+    {
+        "week": 14,
+        "homeTeam": "SF",
+        "awayTeam": "CHI",
+        "homeScore": [
+            14,
+            10,
+            0,
+            14
+        ],
+        "awayScore": [
+            0,
+            0,
+            6,
+            7
+        ],
+        "finalHome": 38,
+        "finalAway": 13
+    },
+    {
+        "week": 14,
+        "homeTeam": "KC",
+        "awayTeam": "LAC",
+        "homeScore": [
+            3,
+            10,
+            0,
+            6
+        ],
+        "awayScore": [
+            0,
+            0,
+            14,
+            3
+        ],
+        "finalHome": 19,
+        "finalAway": 17
+    },
+    {
+        "week": 14,
+        "homeTeam": "DAL",
+        "awayTeam": "CIN",
+        "homeScore": [
+            7,
+            3,
+            7,
+            3
+        ],
+        "awayScore": [
+            7,
+            10,
+            0,
+            10
+        ],
+        "finalHome": 20,
+        "finalAway": 27
+    },
+    {
+        "week": 15,
+        "homeTeam": "SF",
+        "awayTeam": "LAR",
+        "homeScore": [
+            3,
+            0,
+            3,
+            0
+        ],
+        "awayScore": [
+            0,
+            3,
+            0,
+            9
+        ],
+        "finalHome": 6,
+        "finalAway": 12
+    },
+    {
+        "week": 15,
+        "homeTeam": "CLE",
+        "awayTeam": "KC",
+        "homeScore": [
+            0,
+            0,
+            7,
+            0
+        ],
+        "awayScore": [
+            7,
+            7,
+            7,
+            0
+        ],
+        "finalHome": 7,
+        "finalAway": 21
+    },
+    {
+        "week": 15,
+        "homeTeam": "TEN",
+        "awayTeam": "CIN",
+        "homeScore": [
+            14,
+            0,
+            0,
+            13
+        ],
+        "awayScore": [
+            7,
+            17,
+            7,
+            6
+        ],
+        "finalHome": 27,
+        "finalAway": 37
+    },
+    {
+        "week": 15,
+        "homeTeam": "NO",
+        "awayTeam": "WSH",
+        "homeScore": [
+            0,
+            0,
+            7,
+            12
+        ],
+        "awayScore": [
+            7,
+            7,
+            3,
+            3
+        ],
+        "finalHome": 19,
+        "finalAway": 20
+    },
+    {
+        "week": 15,
+        "homeTeam": "NYG",
+        "awayTeam": "BAL",
+        "homeScore": [
+            0,
+            7,
+            0,
+            7
+        ],
+        "awayScore": [
+            7,
+            14,
+            7,
+            7
+        ],
+        "finalHome": 14,
+        "finalAway": 35
+    },
+    {
+        "week": 15,
+        "homeTeam": "CAR",
+        "awayTeam": "DAL",
+        "homeScore": [
+            0,
+            7,
+            0,
+            7
+        ],
+        "awayScore": [
+            0,
+            10,
+            14,
+            6
+        ],
+        "finalHome": 14,
+        "finalAway": 30
+    },
+    {
+        "week": 15,
+        "homeTeam": "JAX",
+        "awayTeam": "NYJ",
+        "homeScore": [
+            7,
+            6,
+            3,
+            9
+        ],
+        "awayScore": [
+            7,
+            0,
+            10,
+            15
+        ],
+        "finalHome": 25,
+        "finalAway": 32
+    },
+    {
+        "week": 15,
+        "homeTeam": "HOU",
+        "awayTeam": "MIA",
+        "homeScore": [
+            3,
+            10,
+            7,
+            0
+        ],
+        "awayScore": [
+            0,
+            6,
+            6,
+            0
+        ],
+        "finalHome": 20,
+        "finalAway": 12
+    },
+    {
+        "week": 15,
+        "homeTeam": "DEN",
+        "awayTeam": "IND",
+        "homeScore": [
+            0,
+            7,
+            3,
+            21
+        ],
+        "awayScore": [
+            7,
+            6,
+            0,
+            0
+        ],
+        "finalHome": 31,
+        "finalAway": 13
+    },
+    {
+        "week": 15,
+        "homeTeam": "DET",
+        "awayTeam": "BUF",
+        "homeScore": [
+            0,
+            14,
+            7,
+            21
+        ],
+        "awayScore": [
+            14,
+            7,
+            14,
+            13
+        ],
+        "finalHome": 42,
+        "finalAway": 48
+    },
+    {
+        "week": 15,
+        "homeTeam": "PHI",
+        "awayTeam": "PIT",
+        "homeScore": [
+            10,
+            7,
+            3,
+            7
+        ],
+        "awayScore": [
+            3,
+            10,
+            0,
+            0
+        ],
+        "finalHome": 27,
+        "finalAway": 13
+    },
+    {
+        "week": 15,
+        "homeTeam": "ARI",
+        "awayTeam": "NE",
+        "homeScore": [
+            10,
+            3,
+            3,
+            14
+        ],
+        "awayScore": [
+            0,
+            3,
+            0,
+            14
+        ],
+        "finalHome": 30,
+        "finalAway": 17
+    },
+    {
+        "week": 15,
+        "homeTeam": "LAC",
+        "awayTeam": "TB",
+        "homeScore": [
+            7,
+            10,
+            0,
+            0
+        ],
+        "awayScore": [
+            7,
+            6,
+            17,
+            10
+        ],
+        "finalHome": 17,
+        "finalAway": 40
+    },
+    {
+        "week": 15,
+        "homeTeam": "SEA",
+        "awayTeam": "GB",
+        "homeScore": [
+            0,
+            3,
+            3,
+            7
+        ],
+        "awayScore": [
+            14,
+            6,
+            3,
+            7
+        ],
+        "finalHome": 13,
+        "finalAway": 30
+    },
+    {
+        "week": 15,
+        "homeTeam": "MIN",
+        "awayTeam": "CHI",
+        "homeScore": [
+            10,
+            3,
+            7,
+            10
+        ],
+        "awayScore": [
+            0,
+            0,
+            3,
+            9
+        ],
+        "finalHome": 30,
+        "finalAway": 12
+    },
+    {
+        "week": 15,
+        "homeTeam": "LV",
+        "awayTeam": "ATL",
+        "homeScore": [
+            0,
+            3,
+            0,
+            6
+        ],
+        "awayScore": [
+            7,
+            2,
+            3,
+            3
+        ],
+        "finalHome": 9,
+        "finalAway": 15
+    },
+    {
+        "week": 16,
+        "homeTeam": "LAC",
+        "awayTeam": "DEN",
+        "homeScore": [
+            7,
+            6,
+            6,
+            15
+        ],
+        "awayScore": [
+            7,
+            14,
+            3,
+            3
+        ],
+        "finalHome": 34,
+        "finalAway": 27
+    },
+    {
+        "week": 16,
+        "homeTeam": "KC",
+        "awayTeam": "HOU",
+        "homeScore": [
+            7,
+            10,
+            7,
+            3
+        ],
+        "awayScore": [
+            3,
+            7,
+            6,
+            3
+        ],
+        "finalHome": 27,
+        "finalAway": 19
+    },
+    {
+        "week": 16,
+        "homeTeam": "BAL",
+        "awayTeam": "PIT",
+        "homeScore": [
+            7,
+            10,
+            7,
+            10
+        ],
+        "awayScore": [
+            0,
+            10,
+            7,
+            0
+        ],
+        "finalHome": 34,
+        "finalAway": 17
+    },
+    {
+        "week": 16,
+        "homeTeam": "ATL",
+        "awayTeam": "NYG",
+        "homeScore": [
+            0,
+            17,
+            14,
+            3
+        ],
+        "awayScore": [
+            0,
+            7,
+            0,
+            0
+        ],
+        "finalHome": 34,
+        "finalAway": 7
+    },
+    {
+        "week": 16,
+        "homeTeam": "CHI",
+        "awayTeam": "DET",
+        "homeScore": [
+            0,
+            14,
+            3,
+            0
+        ],
+        "awayScore": [
+            13,
+            14,
+            7,
+            0
+        ],
+        "finalHome": 17,
+        "finalAway": 34
+    },
+    {
+        "week": 16,
+        "homeTeam": "CIN",
+        "awayTeam": "CLE",
+        "homeScore": [
+            7,
+            10,
+            0,
+            7
+        ],
+        "awayScore": [
+            0,
+            0,
+            6,
+            0
+        ],
+        "finalHome": 24,
+        "finalAway": 6
+    },
+    {
+        "week": 16,
+        "homeTeam": "IND",
+        "awayTeam": "TEN",
+        "homeScore": [
+            0,
+            24,
+            14,
+            0
+        ],
+        "awayScore": [
+            7,
+            0,
+            8,
+            15
+        ],
+        "finalHome": 38,
+        "finalAway": 30
+    },
+    {
+        "week": 16,
+        "homeTeam": "NYJ",
+        "awayTeam": "LAR",
+        "homeScore": [
+            6,
+            3,
+            0,
+            0
+        ],
+        "awayScore": [
+            0,
+            6,
+            0,
+            13
+        ],
+        "finalHome": 9,
+        "finalAway": 19
+    },
+    {
+        "week": 16,
+        "homeTeam": "WSH",
+        "awayTeam": "PHI",
+        "homeScore": [
+            7,
+            7,
+            0,
+            22
+        ],
+        "awayScore": [
+            21,
+            0,
+            6,
+            6
+        ],
+        "finalHome": 36,
+        "finalAway": 33
+    },
+    {
+        "week": 16,
+        "homeTeam": "CAR",
+        "awayTeam": "ARI",
+        "homeScore": [
+            7,
+            13,
+            3,
+            7,
+            6
+        ],
+        "awayScore": [
+            0,
+            17,
+            3,
+            10,
+            0
+        ],
+        "finalHome": 36,
+        "finalAway": 30
+    },
+    {
+        "week": 16,
+        "homeTeam": "SEA",
+        "awayTeam": "MIN",
+        "homeScore": [
+            0,
+            14,
+            3,
+            7
+        ],
+        "awayScore": [
+            7,
+            10,
+            3,
+            7
+        ],
+        "finalHome": 24,
+        "finalAway": 27
+    },
+    {
+        "week": 16,
+        "homeTeam": "BUF",
+        "awayTeam": "NE",
+        "homeScore": [
+            0,
+            7,
+            10,
+            7
+        ],
+        "awayScore": [
+            7,
+            7,
+            0,
+            7
+        ],
+        "finalHome": 24,
+        "finalAway": 21
+    },
+    {
+        "week": 16,
+        "homeTeam": "LV",
+        "awayTeam": "JAX",
+        "homeScore": [
+            0,
+            13,
+            0,
+            6
+        ],
+        "awayScore": [
+            7,
+            0,
+            7,
+            0
+        ],
+        "finalHome": 19,
+        "finalAway": 14
+    },
+    {
+        "week": 16,
+        "homeTeam": "MIA",
+        "awayTeam": "SF",
+        "homeScore": [
+            3,
+            10,
+            6,
+            10
+        ],
+        "awayScore": [
+            0,
+            10,
+            0,
+            7
+        ],
+        "finalHome": 29,
+        "finalAway": 17
+    },
+    {
+        "week": 16,
+        "homeTeam": "DAL",
+        "awayTeam": "TB",
+        "homeScore": [
+            10,
+            13,
+            3,
+            0
+        ],
+        "awayScore": [
+            0,
+            14,
+            3,
+            7
+        ],
+        "finalHome": 26,
+        "finalAway": 24
+    },
+    {
+        "week": 16,
+        "homeTeam": "GB",
+        "awayTeam": "NO",
+        "homeScore": [
+            7,
+            14,
+            3,
+            10
+        ],
+        "awayScore": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "finalHome": 34,
+        "finalAway": 0
+    },
+    {
+        "week": 17,
+        "homeTeam": "PIT",
+        "awayTeam": "KC",
+        "homeScore": [
+            0,
+            7,
+            3,
+            0
+        ],
+        "awayScore": [
+            13,
+            0,
+            3,
+            13
+        ],
+        "finalHome": 10,
+        "finalAway": 29
+    },
+    {
+        "week": 17,
+        "homeTeam": "HOU",
+        "awayTeam": "BAL",
+        "homeScore": [
+            0,
+            2,
+            0,
+            0
+        ],
+        "awayScore": [
+            10,
+            7,
+            14,
+            0
+        ],
+        "finalHome": 2,
+        "finalAway": 31
+    },
+    {
+        "week": 17,
+        "homeTeam": "CHI",
+        "awayTeam": "SEA",
+        "homeScore": [
+            0,
+            3,
+            0,
+            0
+        ],
+        "awayScore": [
+            3,
+            3,
+            0,
+            0
+        ],
+        "finalHome": 3,
+        "finalAway": 6
+    },
+    {
+        "week": 17,
+        "homeTeam": "NE",
+        "awayTeam": "LAC",
+        "homeScore": [
+            0,
+            7,
+            0,
+            0
+        ],
+        "awayScore": [
+            7,
+            13,
+            10,
+            10
+        ],
+        "finalHome": 7,
+        "finalAway": 40
+    },
+    {
+        "week": 17,
+        "homeTeam": "CIN",
+        "awayTeam": "DEN",
+        "homeScore": [
+            0,
+            7,
+            3,
+            14,
+            6
+        ],
+        "awayScore": [
+            3,
+            0,
+            7,
+            14,
+            0
+        ],
+        "finalHome": 30,
+        "finalAway": 24
+    },
+    {
+        "week": 17,
+        "homeTeam": "LAR",
+        "awayTeam": "ARI",
+        "homeScore": [
+            0,
+            10,
+            0,
+            3
+        ],
+        "awayScore": [
+            0,
+            0,
+            6,
+            3
+        ],
+        "finalHome": 13,
+        "finalAway": 9
+    },
+    {
+        "week": 17,
+        "homeTeam": "BUF",
+        "awayTeam": "NYJ",
+        "homeScore": [
+            7,
+            5,
+            21,
+            7
+        ],
+        "awayScore": [
+            0,
+            0,
+            0,
+            14
+        ],
+        "finalHome": 40,
+        "finalAway": 14
+    },
+    {
+        "week": 17,
+        "homeTeam": "NO",
+        "awayTeam": "LV",
+        "homeScore": [
+            0,
+            10,
+            0,
+            0
+        ],
+        "awayScore": [
+            3,
+            10,
+            3,
+            9
+        ],
+        "finalHome": 10,
+        "finalAway": 25
+    },
+    {
+        "week": 17,
+        "homeTeam": "NYG",
+        "awayTeam": "IND",
+        "homeScore": [
+            7,
+            14,
+            7,
+            17
+        ],
+        "awayScore": [
+            3,
+            10,
+            7,
+            13
+        ],
+        "finalHome": 45,
+        "finalAway": 33
+    },
+    {
+        "week": 17,
+        "homeTeam": "PHI",
+        "awayTeam": "DAL",
+        "homeScore": [
+            7,
+            17,
+            10,
+            7
+        ],
+        "awayScore": [
+            7,
+            0,
+            0,
+            0
+        ],
+        "finalHome": 41,
+        "finalAway": 7
+    },
+    {
+        "week": 17,
+        "homeTeam": "TB",
+        "awayTeam": "CAR",
+        "homeScore": [
+            10,
+            17,
+            14,
+            7
+        ],
+        "awayScore": [
+            7,
+            7,
+            0,
+            0
+        ],
+        "finalHome": 48,
+        "finalAway": 14
+    },
+    {
+        "week": 17,
+        "homeTeam": "JAX",
+        "awayTeam": "TEN",
+        "homeScore": [
+            3,
+            10,
+            0,
+            7
+        ],
+        "awayScore": [
+            0,
+            3,
+            7,
+            3
+        ],
+        "finalHome": 20,
+        "finalAway": 13
+    },
+    {
+        "week": 17,
+        "homeTeam": "CLE",
+        "awayTeam": "MIA",
+        "homeScore": [
+            0,
+            3,
+            0,
+            0
+        ],
+        "awayScore": [
+            3,
+            3,
+            7,
+            7
+        ],
+        "finalHome": 3,
+        "finalAway": 20
+    },
+    {
+        "week": 17,
+        "homeTeam": "MIN",
+        "awayTeam": "GB",
+        "homeScore": [
+            0,
+            13,
+            14,
+            0
+        ],
+        "awayScore": [
+            3,
+            0,
+            7,
+            15
+        ],
+        "finalHome": 27,
+        "finalAway": 25
+    },
+    {
+        "week": 17,
+        "homeTeam": "WSH",
+        "awayTeam": "ATL",
+        "homeScore": [
+            7,
+            0,
+            7,
+            10,
+            6
+        ],
+        "awayScore": [
+            7,
+            10,
+            0,
+            7,
+            0
+        ],
+        "finalHome": 30,
+        "finalAway": 24
+    },
+    {
+        "week": 17,
+        "homeTeam": "SF",
+        "awayTeam": "DET",
+        "homeScore": [
+            7,
+            14,
+            7,
+            6
+        ],
+        "awayScore": [
+            6,
+            7,
+            18,
+            9
+        ],
+        "finalHome": 34,
+        "finalAway": 40
+    },
+    {
+        "week": 18,
+        "homeTeam": "BAL",
+        "awayTeam": "CLE",
+        "homeScore": [
+            7,
+            7,
+            7,
+            14
+        ],
+        "awayScore": [
+            0,
+            3,
+            0,
+            7
+        ],
+        "finalHome": 35,
+        "finalAway": 10
+    },
+    {
+        "week": 18,
+        "homeTeam": "PIT",
+        "awayTeam": "CIN",
+        "homeScore": [
+            0,
+            7,
+            0,
+            10
+        ],
+        "awayScore": [
+            10,
+            3,
+            3,
+            3
+        ],
+        "finalHome": 17,
+        "finalAway": 19
+    },
+    {
+        "week": 18,
+        "homeTeam": "ATL",
+        "awayTeam": "CAR",
+        "homeScore": [
+            3,
+            21,
+            0,
+            14,
+            0
+        ],
+        "awayScore": [
+            3,
+            14,
+            14,
+            7,
+            6
+        ],
+        "finalHome": 38,
+        "finalAway": 44
+    },
+    {
+        "week": 18,
+        "homeTeam": "DAL",
+        "awayTeam": "WSH",
+        "homeScore": [
+            3,
+            3,
+            3,
+            10
+        ],
+        "awayScore": [
+            0,
+            3,
+            7,
+            13
+        ],
+        "finalHome": 19,
+        "finalAway": 23
+    },
+    {
+        "week": 18,
+        "homeTeam": "GB",
+        "awayTeam": "CHI",
+        "homeScore": [
+            3,
+            10,
+            0,
+            9
+        ],
+        "awayScore": [
+            7,
+            7,
+            0,
+            10
+        ],
+        "finalHome": 22,
+        "finalAway": 24
+    },
+    {
+        "week": 18,
+        "homeTeam": "TEN",
+        "awayTeam": "HOU",
+        "homeScore": [
+            0,
+            3,
+            3,
+            8
+        ],
+        "awayScore": [
+            7,
+            9,
+            0,
+            7
+        ],
+        "finalHome": 14,
+        "finalAway": 23
+    },
+    {
+        "week": 18,
+        "homeTeam": "IND",
+        "awayTeam": "JAX",
+        "homeScore": [
+            7,
+            13,
+            0,
+            3,
+            3
+        ],
+        "awayScore": [
+            7,
+            6,
+            0,
+            10,
+            0
+        ],
+        "finalHome": 26,
+        "finalAway": 23
+    },
+    {
+        "week": 18,
+        "homeTeam": "NE",
+        "awayTeam": "BUF",
+        "homeScore": [
+            7,
+            7,
+            3,
+            6
+        ],
+        "awayScore": [
+            0,
+            10,
+            6,
+            0
+        ],
+        "finalHome": 23,
+        "finalAway": 16
+    },
+    {
+        "week": 18,
+        "homeTeam": "PHI",
+        "awayTeam": "NYG",
+        "homeScore": [
+            7,
+            3,
+            0,
+            10
+        ],
+        "awayScore": [
+            0,
+            0,
+            3,
+            10
+        ],
+        "finalHome": 20,
+        "finalAway": 13
+    },
+    {
+        "week": 18,
+        "homeTeam": "TB",
+        "awayTeam": "NO",
+        "homeScore": [
+            3,
+            3,
+            7,
+            14
+        ],
+        "awayScore": [
+            3,
+            13,
+            3,
+            0
+        ],
+        "finalHome": 27,
+        "finalAway": 19
+    },
+    {
+        "week": 18,
+        "homeTeam": "DEN",
+        "awayTeam": "KC",
+        "homeScore": [
+            14,
+            10,
+            7,
+            7
+        ],
+        "awayScore": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "finalHome": 38,
+        "finalAway": 0
+    },
+    {
+        "week": 18,
+        "homeTeam": "LV",
+        "awayTeam": "LAC",
+        "homeScore": [
+            3,
+            7,
+            3,
+            7
+        ],
+        "awayScore": [
+            3,
+            14,
+            3,
+            14
+        ],
+        "finalHome": 20,
+        "finalAway": 34
+    },
+    {
+        "week": 18,
+        "homeTeam": "LAR",
+        "awayTeam": "SEA",
+        "homeScore": [
+            3,
+            10,
+            3,
+            9
+        ],
+        "awayScore": [
+            7,
+            10,
+            7,
+            6
+        ],
+        "finalHome": 25,
+        "finalAway": 30
+    },
+    {
+        "week": 18,
+        "homeTeam": "NYJ",
+        "awayTeam": "MIA",
+        "homeScore": [
+            0,
+            15,
+            3,
+            14
+        ],
+        "awayScore": [
+            6,
+            0,
+            0,
+            14
+        ],
+        "finalHome": 32,
+        "finalAway": 20
+    },
+    {
+        "week": 18,
+        "homeTeam": "ARI",
+        "awayTeam": "SF",
+        "homeScore": [
+            3,
+            17,
+            6,
+            21
+        ],
+        "awayScore": [
+            3,
+            14,
+            7,
+            0
+        ],
+        "finalHome": 47,
+        "finalAway": 24
+    },
+    {
+        "week": 18,
+        "homeTeam": "DET",
+        "awayTeam": "MIN",
+        "homeScore": [
+            7,
+            3,
+            7,
+            14
+        ],
+        "awayScore": [
+            0,
+            6,
+            3,
+            0
+        ],
+        "finalHome": 31,
+        "finalAway": 9
+    }
+]
