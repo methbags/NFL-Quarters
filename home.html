@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NFL Box Score Tracker - Home</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link rel="stylesheet" href="home-styles.css">
+    <link rel="stylesheet" href="theme.css">
+    <script>
+        // Apply theme immediately to prevent flash
+        (function() {
+            const savedTheme = localStorage.getItem('theme');
+            if (savedTheme === 'dark') {
+                document.documentElement.classList.add('dark-theme');
+            }
+        })();
+    </script>
+</head>
+<body class="bg-gray-100 min-h-screen transition-colors duration-300" id="mainBody">
+    <div class="container mx-auto px-4 py-8">
+        <!-- Header -->
+        <div class="relative text-center mb-8">
+            <!-- Settings Dropdown -->
+            <div class="absolute top-0 right-0">
+                <div class="relative">
+                    <button id="settingsButton" class="p-2 text-gray-600 hover:text-gray-800 hover:bg-gray-100 rounded-lg transition-colors duration-200">
+                        <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10.325 4.317c.426-1.756 2.924-1.756 3.35 0a1.724 1.724 0 002.573 1.066c1.543-.94 3.31.826 2.37 2.37a1.724 1.724 0 001.065 2.572c1.756.426 1.756 2.924 0 3.35a1.724 1.724 0 00-1.066 2.573c.94 1.543-.826 3.31-2.37 2.37a1.724 1.724 0 00-2.572 1.065c-.426 1.756-2.924 1.756-3.35 0a1.724 1.724 0 00-2.573-1.066c-1.543.94-3.31-.826-2.37-2.37a1.724 1.724 0 00-1.065-2.572c-1.756-.426-1.756-2.924 0-3.35a1.724 1.724 0 001.066-2.573c-.94-1.543.826-3.31 2.37-2.37.996.608 2.296.07 2.572-1.065z"></path>
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z"></path>
+                        </svg>
+                    </button>
+                    <div id="settingsDropdown" class="hidden absolute right-0 mt-2 w-48 bg-white rounded-lg shadow-lg border border-gray-200 z-50">
+                        <div class="py-1">
+                            <div class="block px-4 py-2 text-sm text-gray-700">
+                                <span class="font-medium">Theme:</span>
+                                <div class="mt-1 space-y-1">
+                                    <label class="flex items-center">
+                                        <input type="radio" name="theme" value="light" class="mr-2" checked>
+                                        <span class="text-xs">Light Mode</span>
+                                    </label>
+                                    <label class="flex items-center">
+                                        <input type="radio" name="theme" value="dark" class="mr-2">
+                                        <span class="text-xs">Night Mode</span>
+                                    </label>
+                                </div>
+                            </div>
+                            <a href="#" class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100">Data Preferences</a>
+                            <a href="#" class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100">Export Data</a>
+                            <div class="border-t border-gray-100"></div>
+                            <a href="#" class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100">About</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <h1 id="homeButton" class="text-4xl font-bold text-gray-800 mb-2 cursor-pointer hover:text-blue-600 transition-colors duration-200">NFL Box Score Tracker</h1>
+            <p class="text-gray-600">Track quarter and half statistics for all NFL teams</p>
+        </div>
+
+        <div class="flex flex-col lg:flex-row gap-8">
+            <!-- Team Sidebar - Always visible -->
+            <div class="lg:w-1/4">
+                <div class="bg-white rounded-lg shadow-md p-6">
+                    <h2 class="text-xl font-semibold mb-4">Select Team</h2>
+                    <div class="grid grid-cols-2 lg:grid-cols-1 gap-2" id="teamList">
+                        <!-- Teams will be populated by JavaScript -->
+                    </div>
+                </div>
+            </div>
+
+            <!-- Main Content Area -->
+            <div class="lg:w-3/4">
+                <!-- Best Trends Box (in position of team header) -->
+                <div class="bg-white rounded-lg shadow-md p-6 mb-6">
+                    <div class="flex justify-between items-center mb-4">
+                        <h2 class="text-xl font-bold text-gray-800">Best Trends</h2>
+                        <button id="bestTrendsToggle" class="bg-green-600 text-white px-3 py-1 rounded text-sm font-medium hover:bg-green-700 transition-colors">
+                            Show Records
+                        </button>
+                    </div>
+                    <div id="bestTrendsContainer" class="space-y-3">
+                        <!-- Best trends will be populated here -->
+                    </div>
+                </div>
+
+                <!-- Custom Search Section -->
+                <div class="bg-white rounded-lg shadow-md p-6 mb-6">
+                    <div class="flex justify-between items-center mb-4">
+                        <h2 class="text-xl font-semibold">Custom Search</h2>
+                        <button id="customSearchSubmit" class="bg-green-600 text-white px-4 py-2 rounded-lg hover:bg-green-700 transition-colors text-sm font-medium">
+                            Search
+                        </button>
+                    </div>
+                    
+                    <!-- Search Statement -->
+                    <div class="mb-4 text-lg flex flex-wrap items-center gap-2">
+                        <div class="relative">
+                            <input type="text" id="teamSelect" class="border rounded px-2 py-1 text-sm team-select w-48 bg-white" placeholder="Select Team" readonly>
+                            <div id="teamDropdown" class="absolute top-full left-0 w-full bg-white border border-gray-300 rounded-b max-h-60 overflow-y-auto z-10 hidden shadow-lg">
+                                <input type="text" id="teamSearch" class="w-full px-2 py-1 text-sm border-b bg-white" placeholder="Type to search teams...">
+                                <div id="teamOptions" class="max-h-48 overflow-y-auto"></div>
+                            </div>
+                        </div>
+                        <span>:</span>
+                        <select id="periodSelect" class="border rounded px-2 py-1 text-sm">
+                            <option value="">Select Period</option>
+                            <option value="full">Full Game</option>
+                            <option value="Q1">1st Quarter</option>
+                            <option value="Q2">2nd Quarter</option>
+                            <option value="Q3">3rd Quarter</option>
+                            <option value="Q4">4th Quarter</option>
+                            <option value="H1">1st Half</option>
+                            <option value="H2">2nd Half</option>
+                        </select>
+                        <span>record @</span>
+                        <select id="locationSelect" class="border rounded px-2 py-1 text-sm">
+                            <option value="">Select Location</option>
+                            <option value="both">Home & Away</option>
+                            <option value="home">Home</option>
+                            <option value="away">Away</option>
+                        </select>
+                        <span>vs</span>
+                        <div class="relative">
+                            <input type="text" id="opponentSelect" class="border rounded px-2 py-1 text-sm team-select w-48 bg-white" placeholder="Select Opponent" readonly>
+                            <div id="opponentDropdown" class="absolute top-full left-0 w-full bg-white border border-gray-300 rounded-b max-h-60 overflow-y-auto z-10 hidden shadow-lg">
+                                <input type="text" id="opponentSearch" class="w-full px-2 py-1 text-sm border-b bg-white" placeholder="Type to search opponents...">
+                                <div id="opponentOptions" class="max-h-48 overflow-y-auto"></div>
+                            </div>
+                        </div>
+                        <span>from</span>
+                        <select id="fromYearSelect" class="border rounded px-2 py-1 text-sm">
+                            <option value="">From Year</option>
+                            <option value="2021">2021</option>
+                            <option value="2022">2022</option>
+                            <option value="2023">2023</option>
+                            <option value="2024">2024</option>
+                            <option value="2025">2025</option>
+                        </select>
+                        <span>to</span>
+                        <select id="toYearSelect" class="border rounded px-2 py-1 text-sm">
+                            <option value="">To Year</option>
+                            <option value="2025">2025</option>
+                            <option value="2024">2024</option>
+                            <option value="2023">2023</option>
+                            <option value="2022">2022</option>
+                            <option value="2021">2021</option>
+                        </select>
+                    </div>
+                    
+                    <!-- Results Display -->
+                    <div id="customSearchResults" class="mt-4">
+                        <!-- Results will be populated here -->
+                    </div>
+                </div>
+
+                <style>
+                .team-select option {
+                    background-image: attr(data-logo url);
+                    background-repeat: no-repeat;
+                    background-position: 4px center;
+                    background-size: 16px 16px;
+                    padding-left: 24px;
+                }
+                
+                .team-select {
+                    background-image: url('team-logos/nfl-logo.png');
+                    background-repeat: no-repeat;
+                    background-position: 4px center;
+                    background-size: 16px 16px;
+                    padding-left: 24px;
+                }
+                
+                .team-select option[value=""] {
+                    background-image: none;
+                    padding-left: 8px;
+                }
+                
+                .team-select option[value="division"],
+                .team-select option[value="afc"],
+                .team-select option[value="nfc"] {
+                    background-image: none;
+                    padding-left: 8px;
+                }
+                </style>
+
+                <!-- Bests of '26 Section -->
+                <div class="bg-white rounded-lg shadow-md p-6 mb-6">
+                    <div class="flex justify-between items-center mb-4">
+                        <h2 class="text-xl font-semibold">Bests of '26</h2>
+                        <button id="bests26Toggle" class="px-4 py-2 bg-green-600 text-white rounded-lg hover:bg-green-700 transition-colors duration-200 text-sm font-medium">
+                            Show Records
+                        </button>
+                    </div>
+                    <div class="grid grid-cols-6 gap-4">
+                        <div class="text-center">
+                            <h3 class="text-lg font-medium mb-2 text-white">Q1</h3>
+                            <div class="space-y-2" data-category-26="Q1"></div>
+                        </div>
+                        <div class="text-center">
+                            <h3 class="text-lg font-medium mb-2 text-white">Q2</h3>
+                            <div class="space-y-2" data-category-26="Q2"></div>
+                        </div>
+                        <div class="text-center">
+                            <h3 class="text-lg font-medium mb-2 text-white">Q3</h3>
+                            <div class="space-y-2" data-category-26="Q3"></div>
+                        </div>
+                        <div class="text-center">
+                            <h3 class="text-lg font-medium mb-2 text-white">Q4</h3>
+                            <div class="space-y-2" data-category-26="Q4"></div>
+                        </div>
+                        <div class="text-center">
+                            <h3 class="text-lg font-medium mb-2 text-white">H1</h3>
+                            <div class="space-y-2" data-category-26="H1"></div>
+                        </div>
+                        <div class="text-center">
+                            <h3 class="text-lg font-medium mb-2 text-white">H2</h3>
+                            <div class="space-y-2" data-category-26="H2"></div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Bests of '25 Section -->
+                <div class="bg-white rounded-lg shadow-md p-6 mb-6">
+                    <div class="flex justify-between items-center mb-4">
+                        <h2 class="text-xl font-semibold">Bests of '25</h2>
+                        <button id="bests25Toggle" class="px-4 py-2 bg-green-600 text-white rounded-lg hover:bg-green-700 transition-colors duration-200 text-sm font-medium">
+                            Show Records
+                        </button>
+                    </div>
+                    <div class="grid grid-cols-6 gap-4">
+                        <div class="text-center">
+                            <h3 class="text-lg font-medium mb-2 text-white">Q1</h3>
+                            <div class="space-y-2" data-category-25="Q1">
+                                <!-- Q1 content will be populated by JavaScript -->
+                            </div>
+                        </div>
+                        <div class="text-center">
+                            <h3 class="text-lg font-medium mb-2 text-white">Q2</h3>
+                            <div class="space-y-2" data-category-25="Q2">
+                                <!-- Q2 content will be populated by JavaScript -->
+                            </div>
+                        </div>
+                        <div class="text-center">
+                            <h3 class="text-lg font-medium mb-2 text-white">Q3</h3>
+                            <div class="space-y-2" data-category-25="Q3">
+                                <!-- Q3 content will be populated by JavaScript -->
+                            </div>
+                        </div>
+                        <div class="text-center">
+                            <h3 class="text-lg font-medium mb-2 text-white">Q4</h3>
+                            <div class="space-y-2" data-category-25="Q4">
+                                <!-- Q4 content will be populated by JavaScript -->
+                            </div>
+                        </div>
+                        <div class="text-center">
+                            <h3 class="text-lg font-medium mb-2 text-white">H1</h3>
+                            <div class="space-y-2" data-category-25="H1">
+                                <!-- H1 content will be populated by JavaScript -->
+                            </div>
+                        </div>
+                        <div class="text-center">
+                            <h3 class="text-lg font-medium mb-2 text-white">H2</h3>
+                            <div class="space-y-2" data-category-25="H2">
+                                <!-- H2 content will be populated by JavaScript -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="home-scripts.js"></script>
+</body>
+</html>

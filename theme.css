@@ -1,0 +1,164 @@
+/* Dark Theme Styles */
+.dark-theme,
+html.dark-theme {
+    background-color: #111827 !important;
+    color: #f9fafb !important;
+}
+
+html.dark-theme body {
+    background-color: #111827 !important;
+}
+
+.dark-theme .bg-gray-100 {
+    background-color: #111827 !important;
+}
+
+.dark-theme .bg-white {
+    background-color: #1f2937 !important;
+}
+
+.dark-theme .bg-gray-50 {
+    background-color: #374151 !important;
+}
+
+.dark-theme .text-gray-800 {
+    color: #f9fafb !important;
+}
+
+.dark-theme .text-gray-700 {
+    color: #e5e7eb !important;
+}
+
+.dark-theme .text-gray-600 {
+    color: #d1d5db !important;
+}
+
+.dark-theme .text-gray-500 {
+    color: #9ca3af !important;
+}
+
+.dark-theme .text-gray-900 {
+    color: #f9fafb !important;
+}
+
+.dark-theme .border-gray-200 {
+    border-color: #374151 !important;
+}
+
+.dark-theme .border-gray-100 {
+    border-color: #4b5563 !important;
+}
+
+.dark-theme .divide-gray-200 > :not([hidden]) ~ :not([hidden]) {
+    border-color: #374151 !important;
+}
+
+.dark-theme .hover\:bg-gray-100:hover {
+    background-color: #374151 !important;
+}
+
+.dark-theme .hover\:bg-blue-100:hover {
+    background-color: #1e3a8a !important;
+}
+
+.dark-theme .hover\:text-gray-800:hover {
+    color: #f3f4f6 !important;
+}
+
+.dark-theme .shadow-md {
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.3), 0 2px 4px -1px rgba(0, 0, 0, 0.2) !important;
+}
+
+.dark-theme .shadow-lg {
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.3), 0 4px 6px -2px rgba(0, 0, 0, 0.2) !important;
+}
+
+/* Settings button in dark mode */
+.dark-theme #settingsButton {
+    color: #d1d5db !important;
+}
+
+.dark-theme #settingsButton:hover {
+    color: #f9fafb !important;
+    background-color: #374151 !important;
+}
+
+/* Settings dropdown in dark mode */
+.dark-theme #settingsDropdown {
+    background-color: #1f2937 !important;
+    border-color: #374151 !important;
+}
+
+/* Chart containers in dark mode */
+.dark-theme canvas {
+    background-color: #1f2937 !important;
+}
+
+/* Team buttons in dark mode */
+.dark-theme .team-btn {
+    background-color: #374151 !important;
+    color: #e5e7eb !important;
+}
+
+.dark-theme .team-btn:hover {
+    background-color: #1e3a8a !important;
+    color: #ffffff !important;
+}
+
+/* Season select dropdown in dark mode */
+.dark-theme select {
+    background-color: #374151 !important;
+    color: #e5e7eb !important;
+    border-color: #4b5563 !important;
+}
+
+.dark-theme select option {
+    background-color: #374151 !important;
+    color: #e5e7eb !important;
+}
+
+/* Team abbreviation bubbles in dark mode */
+.dark-theme .w-8.h-8.bg-gray-200 {
+    background-color: #e5e7eb !important;
+    color: #111827 !important;
+}
+
+.dark-theme .w-8.h-8.bg-gray-200 span {
+    color: #111827 !important;
+}
+
+/* Team header logo bubble in dark mode */
+.dark-theme .w-16.h-16.bg-gray-200 {
+    background-color: #e5e7eb !important;
+}
+
+.dark-theme .w-16.h-16.bg-gray-200 span {
+    color: #111827 !important;
+}
+
+.dark-theme #teamAbbr {
+    color: #111827 !important;
+}
+
+/* Game log hover fix for dark mode */
+.dark-theme .hover\:bg-gray-50:hover {
+    background-color: #f9fafb !important;
+    color: #111827 !important;
+}
+
+.dark-theme .hover\:bg-gray-50:hover * {
+    color: #111827 !important;
+}
+
+/* Preserve +/- and tie colors on hover in dark mode */
+.dark-theme .hover\:bg-gray-50:hover .text-green-600 {
+    color: #16a34a !important;
+}
+
+.dark-theme .hover\:bg-gray-50:hover .text-red-600 {
+    color: #dc2626 !important;
+}
+
+.dark-theme .hover\:bg-gray-50:hover .text-blue-400 {
+    color: #60a5fa !important;
+}
